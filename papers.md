@@ -6,6 +6,8 @@
 * 知乎专栏SLU和NLG的论文汇总 [知乎](https://zhuanlan.zhihu.com/p/50993121)
 * Deep Semantic Role Labeling: What works and what’s next by AllenAI & FAIR [semanticscholar](https://pdfs.semanticscholar.org/874e/f2e5488fcce82c48ed5b00fa1e5390a918e3.pdf)
 * The Probabilistic Relevance Framework:BM25 and Beyond [Mcirosoft & Yahoo Research](http://www.staff.city.ac.uk/~sb317/papers/foundations_bm25_review.pdf)
+* Neural Approaches to Conversational AI: Question Answering, Task-oriented Dialogues and Social Chatbots [Arxiv](https://arxiv.org/abs/1809.08267)
+* Review of Deep Learning [Arxiv](https://arxiv.org/abs/1804.01653) in **Chinese**
 
 
 ## Machine Learning
@@ -23,3 +25,4 @@
 
 ## Mathematics
 * An invitation to Gabor analysis [Arxiv](https://arxiv.org/pdf/1812.08647)
+* The Fourier Integral and Certain of its Applications by Norbert Wiener [Cambridge Assets](http://59.80.44.100/assets.cambridge.org/97805213/58842/excerpt/9780521358842_excerpt.pdf)
