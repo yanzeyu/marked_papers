@@ -8,6 +8,8 @@
 * The Probabilistic Relevance Framework:BM25 and Beyond [Mcirosoft & Yahoo Research](http://www.staff.city.ac.uk/~sb317/papers/foundations_bm25_review.pdf)
 * Neural Approaches to Conversational AI: Question Answering, Task-oriented Dialogues and Social Chatbots [Arxiv](https://arxiv.org/abs/1809.08267)
 * Review of Deep Learning [Arxiv](https://arxiv.org/abs/1804.01653) in **Chinese**
+* Syntax-aware Neural Semantic Role Labeling with Supertags [Arxiv](https://arxiv.org/abs/1903.05260)
+* ONENET: JOINT DOMAIN, INTENT, SLOT PREDICTION FOR SPOKEN LANGUAGE UNDERSTANDING [Arxiv](https://arxiv.org/abs/1801.05149)
 
 
 ## Machine Learning
@@ -20,7 +22,7 @@
 * Transfer Adaptation Learning: A Decade Survey [Arxiv](https://arxiv.org/abs/1903.04687)
 
 ## Deep Learning(Reinforcement Learning and others)
-
+* Variational Auto-Decoder: Neural Generative Modeling from Partial Data [Arxiv](https://arxiv.org/abs/1903.00840)
 
 
 ## Mathematics
