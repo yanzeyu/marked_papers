@@ -1,5 +1,4 @@
 ## Natural Language Processing
-### 2019
 * Practical Semantic Parsing for Spoken Language Understanding [Arxiv](https://arxiv.org/abs/1903.04521)
 * Few-Shot and Zero-Shot Learning for Historical Text Normalization [Arxiv](https://arxiv.org/abs/1903.04870)
 * Constituent Parsing as Sequence Labeling [ACLweb](http://aclweb.org/anthology/D18-1162)
@@ -10,7 +9,11 @@
 * Review of Deep Learning [Arxiv](https://arxiv.org/abs/1804.01653) in **Chinese**
 * Syntax-aware Neural Semantic Role Labeling with Supertags [Arxiv](https://arxiv.org/abs/1903.05260)
 * ONENET: JOINT DOMAIN, INTENT, SLOT PREDICTION FOR SPOKEN LANGUAGE UNDERSTANDING [Arxiv](https://arxiv.org/abs/1801.05149)
-
+* Text Summarization Techniques: A Brief Survey [Arxiv](https://arxiv.org/abs/1707.02268)
+* Get To The Point: Summarization with Pointer-Generator Networks [Arxiv](https://arxiv.org/abs/1704.04368)
+* A Review on Automatic Text Summarization Approaches [Journal of Computer Science](https://thescipub.com/PDF/jcssp.2016.178.190.pdf)
+* A Review Paper on Text Summarization [IJARCCE](https://www.ijarcce.com/upload/2016/march-16/IJARCCE%2040.pdf)
+* To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks [Arxiv](https://arxiv.org/abs/1903.05987)
 
 ## Machine Learning
 * Elements of Sequential Monte Carlo [Arxiv](https://arxiv.org/pdf/1903.04797)
@@ -23,6 +26,7 @@
 
 ## Deep Learning(Reinforcement Learning and others)
 * Variational Auto-Decoder: Neural Generative Modeling from Partial Data [Arxiv](https://arxiv.org/abs/1903.00840)
+* Deep learning for time series classification: a review [Arxiv](https://arxiv.org/abs/1809.04356)
 
 
 ## Mathematics
