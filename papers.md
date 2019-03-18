@@ -27,6 +27,7 @@
 ## Deep Learning(Reinforcement Learning and others)
 * Variational Auto-Decoder: Neural Generative Modeling from Partial Data [Arxiv](https://arxiv.org/abs/1903.00840)
 * Deep learning for time series classification: a review [Arxiv](https://arxiv.org/abs/1809.04356)
+* A State-of-the-Art Survey on Deep Learning Theory and Architectures [Electronics 2019](https://www.mdpi.com/2079-9292/8/3/292)
 
 
 ## Mathematics
