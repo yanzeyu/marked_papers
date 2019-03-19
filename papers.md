@@ -14,6 +14,7 @@
 * A Review on Automatic Text Summarization Approaches [Journal of Computer Science](https://thescipub.com/PDF/jcssp.2016.178.190.pdf)
 * A Review Paper on Text Summarization [IJARCCE](https://www.ijarcce.com/upload/2016/march-16/IJARCCE%2040.pdf)
 * To Tune or Not to Tune? Adapting Pretrained Representations to Diverse Tasks [Arxiv](https://arxiv.org/abs/1903.05987)
+* Sentence Simplification with Deep Reinforcement Learning [Arxiv](https://arxiv.org/abs/1703.10931)
 
 ## Machine Learning
 * Elements of Sequential Monte Carlo [Arxiv](https://arxiv.org/pdf/1903.04797)
