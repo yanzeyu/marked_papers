@@ -32,9 +32,11 @@
 * Deep learning for time series classification: a review [Arxiv](https://arxiv.org/abs/1809.04356)
 * A State-of-the-Art Survey on Deep Learning Theory and Architectures [Electronics 2019](https://www.mdpi.com/2079-9292/8/3/292)
 * Deep Neural Network Ensembles for Time Series Classification [Arxiv](https://arxiv.org/abs/1903.06602)
+* Deep Learning for Anomaly Detection: A Survey [Arxiv](https://arxiv.org/abs/1901.03407)
 
 
 ## Mathematics
 * An invitation to Gabor analysis [Arxiv](https://arxiv.org/pdf/1812.08647)
 * The Fourier Integral and Certain of its Applications by Norbert Wiener [Cambridge Assets](http://59.80.44.100/assets.cambridge.org/97805213/58842/excerpt/9780521358842_excerpt.pdf)
 * Greedy Variance Estimation for the LASSO [Arxiv](https://arxiv.org/abs/1803.10878)
+* Computational Optimal Transport [Arxiv](https://arxiv.org/abs/1803.00567)
