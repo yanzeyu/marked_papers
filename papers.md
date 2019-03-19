@@ -33,6 +33,7 @@
 * A State-of-the-Art Survey on Deep Learning Theory and Architectures [Electronics 2019](https://www.mdpi.com/2079-9292/8/3/292)
 * Deep Neural Network Ensembles for Time Series Classification [Arxiv](https://arxiv.org/abs/1903.06602)
 * Deep Learning for Anomaly Detection: A Survey [Arxiv](https://arxiv.org/abs/1901.03407)
+* How Generative Adversarial Networks and Their Variants Work: An Overview [Arxiv](https://arxiv.org/abs/1711.05914)
 
 
 ## Mathematics
