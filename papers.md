@@ -20,6 +20,8 @@
 * CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge [Arxiv](https://arxiv.org/abs/1811.00937)
 * Show, Attend and Read: A Simple and Strong Baseline for Irregular Text Recognition [Arxiv](https://arxiv.org/abs/1811.00751)
 * Few-Shot Generalization Across Dialogue Tasks [Arxiv](https://arxiv.org/abs/1811.11707)
+* Natural Language Generation at Scale: A Case Study for Open Domain Question Answering [Arxiv](https://arxiv.org/abs/1903.08097)
+* A survey on Adversarial Attacks and Defenses in Text [Arxiv](https://arxiv.org/abs/1902.07285)
 
 ## Machine Learning
 * Elements of Sequential Monte Carlo [Arxiv](https://arxiv.org/pdf/1903.04797)
@@ -34,6 +36,7 @@
 * MirrorGAN: Learning Text-to-image Generation by Redescription [Arxiv](https://arxiv.org/abs/1903.05854)
 * Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation [Arxiv](https://arxiv.org/abs/1811.10092)
 * Video Description: A Survey of Methods, Datasets and Evaluation Metrics [Arxiv](https://arxiv.org/abs/1806.00186)
+* Deep Reinforcement Learning for Autonomous Driving [Arxiv](https://arxiv.org/abs/1811.11329)
 
 ## Deep Learning(Reinforcement Learning and others)
 * Variational Auto-Decoder: Neural Generative Modeling from Partial Data [Arxiv](https://arxiv.org/abs/1903.00840)
@@ -53,3 +56,4 @@
 * Computational Optimal Transport [Arxiv](https://arxiv.org/abs/1803.00567)
 * Mathematical analysis [Arxiv](https://arxiv.org/abs/1010.0824)
 * The representation theory of finite sets and correspondences [Arxiv](https://arxiv.org/abs/1510.03034)
+* Aspects of quantum gravity -- Ph.D. Thesis, University of London, King's College (Supervisor: Prof. Mairi Sakellariadou) [Arxiv](https://arxiv.org/abs/1903.07735)
