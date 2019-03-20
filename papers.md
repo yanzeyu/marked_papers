@@ -44,7 +44,7 @@
 * How Generative Adversarial Networks and Their Variants Work: An Overview [Arxiv](https://arxiv.org/abs/1711.05914)
 * Dying ReLU and Initialization: Theory and Numerical Examples [Arxiv](https://arxiv.org/abs/1903.06733)
 * Neural Architecture Search with Bayesian Optimisation and Optimal Transport [Arxiv](https://arxiv.org/abs/1802.07191)
-
+* A Comprehensive Comparison of Unsupervised Network Representation Learning Methods [Arxiv](https://arxiv.org/abs/1903.07902)
 
 ## Mathematics
 * An invitation to Gabor analysis [Arxiv](https://arxiv.org/pdf/1812.08647)
