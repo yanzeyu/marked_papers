@@ -19,6 +19,7 @@
 * The Missing Ingredient in Zero-Shot Neural Machine Translation [Arxiv](https://arxiv.org/abs/1903.07091)
 * CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge [Arxiv](https://arxiv.org/abs/1811.00937)
 * Show, Attend and Read: A Simple and Strong Baseline for Irregular Text Recognition [Arxiv](https://arxiv.org/abs/1811.00751)
+* Few-Shot Generalization Across Dialogue Tasks [Arxiv](https://arxiv.org/abs/1811.11707)
 
 ## Machine Learning
 * Elements of Sequential Monte Carlo [Arxiv](https://arxiv.org/pdf/1903.04797)
