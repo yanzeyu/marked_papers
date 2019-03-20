@@ -27,6 +27,7 @@
 * The Multiplicative Weights Update Method: a Meta Algorithm and Applications [Princeton](https://www.cs.princeton.edu/~arora/pubs/MWsurvey.pdf)
 * Interpretable Machine Learning [Christoph Molnar](https://christophm.github.io/interpretable-ml-book/index.html)
 * Zero Shot Learning with the Isoperimetric Loss [Arxiv](https://arxiv.org/abs/1903.06781)
+* Rete: A fast algorithm for the many pattern/many object pattern match problem [Journal: Artificial Intelligence](https://www.sciencedirect.com/science/article/abs/pii/0004370282900200)
 
 ## Computer Vision
 * Transfer Adaptation Learning: A Decade Survey [Arxiv](https://arxiv.org/abs/1903.04687)
