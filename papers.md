@@ -22,6 +22,8 @@
 * Few-Shot Generalization Across Dialogue Tasks [Arxiv](https://arxiv.org/abs/1811.11707)
 * Natural Language Generation at Scale: A Case Study for Open Domain Question Answering [Arxiv](https://arxiv.org/abs/1903.08097)
 * A survey on Adversarial Attacks and Defenses in Text [Arxiv](https://arxiv.org/abs/1902.07285)
+* Left-to-Right Dependency Parsing with Pointer Networks [Arxiv](https://arxiv.org/abs/1903.08445)
+* Simple, Fast, Accurate Intent Classification and Slot Labeling [Arxiv](https://arxiv.org/abs/1903.08268)
 
 ## Machine Learning
 * Elements of Sequential Monte Carlo [Arxiv](https://arxiv.org/pdf/1903.04797)
@@ -30,6 +32,8 @@
 * Interpretable Machine Learning [Christoph Molnar](https://christophm.github.io/interpretable-ml-book/index.html)
 * Zero Shot Learning with the Isoperimetric Loss [Arxiv](https://arxiv.org/abs/1903.06781)
 * Rete: A fast algorithm for the many pattern/many object pattern match problem [Journal: Artificial Intelligence](https://www.sciencedirect.com/science/article/abs/pii/0004370282900200)
+* A brief introduction to the Grey Machine Learning [Arxiv](https://arxiv.org/abs/1805.01745)
+* Machine Learning for Data-Driven Movement Generation: a Review of the State of the Art [Arxiv](https://arxiv.org/abs/1903.08356)
 
 ## Computer Vision
 * Transfer Adaptation Learning: A Decade Survey [Arxiv](https://arxiv.org/abs/1903.04687)
@@ -37,6 +41,9 @@
 * Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation [Arxiv](https://arxiv.org/abs/1811.10092)
 * Video Description: A Survey of Methods, Datasets and Evaluation Metrics [Arxiv](https://arxiv.org/abs/1806.00186)
 * Deep Reinforcement Learning for Autonomous Driving [Arxiv](https://arxiv.org/abs/1811.11329)
+* Correlation Net : spatio temporal multimodal deep learning [Arxiv](https://arxiv.org/abs/1807.08291)
+* Selective Kernel Networks [Arxiv](https://arxiv.org/abs/1903.06586)
+* Squeeze-and-Excitation Networks [Arxiv](https://arxiv.org/abs/1709.01507)
 
 ## Deep Learning(Reinforcement Learning and others)
 * Variational Auto-Decoder: Neural Generative Modeling from Partial Data [Arxiv](https://arxiv.org/abs/1903.00840)
@@ -57,3 +64,10 @@
 * Mathematical analysis [Arxiv](https://arxiv.org/abs/1010.0824)
 * The representation theory of finite sets and correspondences [Arxiv](https://arxiv.org/abs/1510.03034)
 * Aspects of quantum gravity -- Ph.D. Thesis, University of London, King's College (Supervisor: Prof. Mairi Sakellariadou) [Arxiv](https://arxiv.org/abs/1903.07735)
+* Alexandrov geometry: preliminary version no. 1 [Arxiv](https://arxiv.org/abs/1903.08539)
+* Riemann--Hilbert Problems [Arxiv](https://arxiv.org/abs/1903.08304)
+* Dynamo theories [Arxiv](https://arxiv.org/abs/1903.07829)
+* Colloquium: A Century of Noether's Theorem [Arxiv](https://arxiv.org/abs/1902.01989)
+* Solitons and Black Holes in 4 and 5 Dimensions [Arxiv](https://arxiv.org/abs/1903.04942)
+* Introduction to geometric control [Arxiv](https://arxiv.org/abs/1903.00211)
+* Gravitation: from Newton to Einstein [Arxiv](https://arxiv.org/abs/1902.07287)
