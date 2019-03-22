@@ -24,6 +24,10 @@
 * A survey on Adversarial Attacks and Defenses in Text [Arxiv](https://arxiv.org/abs/1902.07285)
 * Left-to-Right Dependency Parsing with Pointer Networks [Arxiv](https://arxiv.org/abs/1903.08445)
 * Simple, Fast, Accurate Intent Classification and Slot Labeling [Arxiv](https://arxiv.org/abs/1903.08268)
+* Recent advances in conversational NLP : Towards the standardization of Chatbot building [Arxiv](https://arxiv.org/abs/1903.09025)
+* Iteratively Learning Embeddings and Rules for Knowledge Graph Reasoning [Arxiv](https://arxiv.org/abs/1903.08948)
+* Learning Multi-Level Information for Dialogue Response Selection by Highway Recurrent Transformer [Arxiv](https://arxiv.org/abs/1903.08953)
+* Linguistic Knowledge and Transferability of Contextual Representations [Arxiv](https://arxiv.org/abs/1903.08855)
 
 ## Machine Learning
 * Elements of Sequential Monte Carlo [Arxiv](https://arxiv.org/pdf/1903.04797)
@@ -34,6 +38,10 @@
 * Rete: A fast algorithm for the many pattern/many object pattern match problem [Journal: Artificial Intelligence](https://www.sciencedirect.com/science/article/abs/pii/0004370282900200)
 * A brief introduction to the Grey Machine Learning [Arxiv](https://arxiv.org/abs/1805.01745)
 * Machine Learning for Data-Driven Movement Generation: a Review of the State of the Art [Arxiv](https://arxiv.org/abs/1903.08356)
+* Node Embedding over Temporal Graphs [Arxiv](https://arxiv.org/abs/1903.08889)
+
+## Robotics
+* Flying through a narrow gap using neural network: an end-to-end planning and control approach [Arxiv](https://arxiv.org/abs/1903.09088)
 
 ## Computer Vision
 * Transfer Adaptation Learning: A Decade Survey [Arxiv](https://arxiv.org/abs/1903.04687)
@@ -44,6 +52,7 @@
 * Correlation Net : spatio temporal multimodal deep learning [Arxiv](https://arxiv.org/abs/1807.08291)
 * Selective Kernel Networks [Arxiv](https://arxiv.org/abs/1903.06586)
 * Squeeze-and-Excitation Networks [Arxiv](https://arxiv.org/abs/1709.01507)
+* Learning with Batch-wise Optimal Transport Loss for 3D Shape Recognition [Arxiv](https://arxiv.org/abs/1903.08923)
 
 ## Deep Learning(Reinforcement Learning and others)
 * Variational Auto-Decoder: Neural Generative Modeling from Partial Data [Arxiv](https://arxiv.org/abs/1903.00840)
@@ -71,3 +80,6 @@
 * Solitons and Black Holes in 4 and 5 Dimensions [Arxiv](https://arxiv.org/abs/1903.04942)
 * Introduction to geometric control [Arxiv](https://arxiv.org/abs/1903.00211)
 * Gravitation: from Newton to Einstein [Arxiv](https://arxiv.org/abs/1902.07287)
+* Stochastic Gradient Descent with Polyak's Learning Rate [Arxiv](https://arxiv.org/abs/1903.08688)
+* Notes on flat pseudo-Riemannian manifolds [Arxiv](https://arxiv.org/abs/1903.08940)
+* An Introduction to Markov Chain Monte Carlo on Finite State Spaces [Arxiv](https://arxiv.org/abs/1903.09019)
