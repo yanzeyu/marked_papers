@@ -1,4 +1,5 @@
 ## Natural Language Processing
+* Sebastian Ruder's [blog](http://ruder.io/)
 * Practical Semantic Parsing for Spoken Language Understanding [Arxiv](https://arxiv.org/abs/1903.04521)
 * Few-Shot and Zero-Shot Learning for Historical Text Normalization [Arxiv](https://arxiv.org/abs/1903.04870)
 * Constituent Parsing as Sequence Labeling [ACLweb](http://aclweb.org/anthology/D18-1162)
@@ -28,6 +29,7 @@
 * Iteratively Learning Embeddings and Rules for Knowledge Graph Reasoning [Arxiv](https://arxiv.org/abs/1903.08948)
 * Learning Multi-Level Information for Dialogue Response Selection by Highway Recurrent Transformer [Arxiv](https://arxiv.org/abs/1903.08953)
 * Linguistic Knowledge and Transferability of Contextual Representations [Arxiv](https://arxiv.org/abs/1903.08855)
+* Event Extraction via Dynamic Multi-Pooling Convolutional Neural Networks [aclanthology](https://aclanthology.info/papers/P15-1017/p15-1017)
 
 ## Machine Learning
 * Elements of Sequential Monte Carlo [Arxiv](https://arxiv.org/pdf/1903.04797)
@@ -39,6 +41,8 @@
 * A brief introduction to the Grey Machine Learning [Arxiv](https://arxiv.org/abs/1805.01745)
 * Machine Learning for Data-Driven Movement Generation: a Review of the State of the Art [Arxiv](https://arxiv.org/abs/1903.08356)
 * Node Embedding over Temporal Graphs [Arxiv](https://arxiv.org/abs/1903.08889)
+* 样本不平衡问题 [知乎专栏](https://zhuanlan.zhihu.com/p/56882616)
+* SMOTE: Synthetic Minority Over-sampling Technique [Arxiv](https://arxiv.org/abs/1106.1813)
 
 ## Robotics
 * Flying through a narrow gap using neural network: an end-to-end planning and control approach [Arxiv](https://arxiv.org/abs/1903.09088)
