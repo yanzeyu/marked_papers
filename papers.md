@@ -30,6 +30,9 @@
 * Learning Multi-Level Information for Dialogue Response Selection by Highway Recurrent Transformer [Arxiv](https://arxiv.org/abs/1903.08953)
 * Linguistic Knowledge and Transferability of Contextual Representations [Arxiv](https://arxiv.org/abs/1903.08855)
 * Event Extraction via Dynamic Multi-Pooling Convolutional Neural Networks [aclanthology](https://aclanthology.info/papers/P15-1017/p15-1017)
+* An end-to-end Neural Network Framework for Text Clustering [Arxiv](https://arxiv.org/abs/1903.09424)
+* Data Augmentation via Dependency Tree Morphing for Low-Resource Languages [Arxiv](https://arxiv.org/abs/1903.09460)
+* Few-shot learning with attention-based sequence-to-sequence models [Arxiv](https://arxiv.org/abs/1811.03519)
 
 ## Machine Learning
 * Elements of Sequential Monte Carlo [Arxiv](https://arxiv.org/pdf/1903.04797)
@@ -57,6 +60,7 @@
 * Selective Kernel Networks [Arxiv](https://arxiv.org/abs/1903.06586)
 * Squeeze-and-Excitation Networks [Arxiv](https://arxiv.org/abs/1709.01507)
 * Learning with Batch-wise Optimal Transport Loss for 3D Shape Recognition [Arxiv](https://arxiv.org/abs/1903.08923)
+* MobileNetV2: Inverted Residuals and Linear Bottlenecks [Arxiv](https://arxiv.org/abs/1801.04381)
 
 ## Deep Learning(Reinforcement Learning and others)
 * Variational Auto-Decoder: Neural Generative Modeling from Partial Data [Arxiv](https://arxiv.org/abs/1903.00840)
