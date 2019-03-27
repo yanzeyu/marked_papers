@@ -33,6 +33,7 @@
 * An end-to-end Neural Network Framework for Text Clustering [Arxiv](https://arxiv.org/abs/1903.09424)
 * Data Augmentation via Dependency Tree Morphing for Low-Resource Languages [Arxiv](https://arxiv.org/abs/1903.09460)
 * Few-shot learning with attention-based sequence-to-sequence models [Arxiv](https://arxiv.org/abs/1811.03519)
+* Reinforcement Learning Based Text Style Transfer without Parallel Training Corpus [Arxiv](https://arxiv.org/abs/1903.10671)
 
 ## Machine Learning
 * Elements of Sequential Monte Carlo [Arxiv](https://arxiv.org/pdf/1903.04797)
@@ -91,3 +92,4 @@
 * Stochastic Gradient Descent with Polyak's Learning Rate [Arxiv](https://arxiv.org/abs/1903.08688)
 * Notes on flat pseudo-Riemannian manifolds [Arxiv](https://arxiv.org/abs/1903.08940)
 * An Introduction to Markov Chain Monte Carlo on Finite State Spaces [Arxiv](https://arxiv.org/abs/1903.09019)
+* Lecture notes on quantitative unique continuation for solutions of second order elliptic equations [Arxiv](https://arxiv.org/abs/1903.10619)
