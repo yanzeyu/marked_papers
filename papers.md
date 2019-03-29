@@ -35,6 +35,8 @@
 * Few-shot learning with attention-based sequence-to-sequence models [Arxiv](https://arxiv.org/abs/1811.03519)
 * Reinforcement Learning Based Text Style Transfer without Parallel Training Corpus [Arxiv](https://arxiv.org/abs/1903.10671)
 * A Theoretical Analysis of Contrastive Unsupervised Representation Learning [Arxiv](https://arxiv.org/abs/1902.09229)
+* Learning semantic sentence representations from visually grounded language without lexical knowledge [Arxiv](https://arxiv.org/abs/1903.11393)
+* Distilling Task-Specific Knowledge from BERT into Simple Neural Networks [Arxiv](https://arxiv.org/abs/1903.12136)
 
 ## Machine Learning
 * Elements of Sequential Monte Carlo [Arxiv](https://arxiv.org/pdf/1903.04797)
@@ -48,6 +50,7 @@
 * Node Embedding over Temporal Graphs [Arxiv](https://arxiv.org/abs/1903.08889)
 * 样本不平衡问题 [知乎专栏](https://zhuanlan.zhihu.com/p/56882616)
 * SMOTE: Synthetic Minority Over-sampling Technique [Arxiv](https://arxiv.org/abs/1106.1813)
+* A Survey on Graph Kernels [Arxiv](https://arxiv.org/abs/1903.11835)
 
 ## Robotics
 * Flying through a narrow gap using neural network: an end-to-end planning and control approach [Arxiv](https://arxiv.org/abs/1903.09088)
@@ -63,6 +66,7 @@
 * Squeeze-and-Excitation Networks [Arxiv](https://arxiv.org/abs/1709.01507)
 * Learning with Batch-wise Optimal Transport Loss for 3D Shape Recognition [Arxiv](https://arxiv.org/abs/1903.08923)
 * MobileNetV2: Inverted Residuals and Linear Bottlenecks [Arxiv](https://arxiv.org/abs/1801.04381)
+* ThunderNet: Towards Real-time Generic Object Detection [Arxiv](https://arxiv.org/abs/1903.11752)
 
 ## Deep Learning(Reinforcement Learning and others)
 * Variational Auto-Decoder: Neural Generative Modeling from Partial Data [Arxiv](https://arxiv.org/abs/1903.00840)
@@ -94,3 +98,4 @@
 * Notes on flat pseudo-Riemannian manifolds [Arxiv](https://arxiv.org/abs/1903.08940)
 * An Introduction to Markov Chain Monte Carlo on Finite State Spaces [Arxiv](https://arxiv.org/abs/1903.09019)
 * Lecture notes on quantitative unique continuation for solutions of second order elliptic equations [Arxiv](https://arxiv.org/abs/1903.10619)
+* Lectures on Minimal Surfaces [Arxiv](https://arxiv.org/abs/1903.12062)
