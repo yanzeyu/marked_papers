@@ -34,6 +34,7 @@
 * Data Augmentation via Dependency Tree Morphing for Low-Resource Languages [Arxiv](https://arxiv.org/abs/1903.09460)
 * Few-shot learning with attention-based sequence-to-sequence models [Arxiv](https://arxiv.org/abs/1811.03519)
 * Reinforcement Learning Based Text Style Transfer without Parallel Training Corpus [Arxiv](https://arxiv.org/abs/1903.10671)
+* A Theoretical Analysis of Contrastive Unsupervised Representation Learning [Arxiv](https://arxiv.org/abs/1902.09229)
 
 ## Machine Learning
 * Elements of Sequential Monte Carlo [Arxiv](https://arxiv.org/pdf/1903.04797)
