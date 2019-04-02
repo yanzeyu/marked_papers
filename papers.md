@@ -37,6 +37,8 @@
 * A Theoretical Analysis of Contrastive Unsupervised Representation Learning [Arxiv](https://arxiv.org/abs/1902.09229)
 * Learning semantic sentence representations from visually grounded language without lexical knowledge [Arxiv](https://arxiv.org/abs/1903.11393)
 * Distilling Task-Specific Knowledge from BERT into Simple Neural Networks [Arxiv](https://arxiv.org/abs/1903.12136)
+* BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning [Arxiv](https://arxiv.org/abs/1902.02671)
+* Multi-Task Deep Neural Networks for Natural Language Understanding [Arxiv](https://arxiv.org/abs/1901.11504)
 
 ## Machine Learning
 * Elements of Sequential Monte Carlo [Arxiv](https://arxiv.org/pdf/1903.04797)
