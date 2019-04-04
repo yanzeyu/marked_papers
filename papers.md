@@ -39,6 +39,7 @@
 * Distilling Task-Specific Knowledge from BERT into Simple Neural Networks [Arxiv](https://arxiv.org/abs/1903.12136)
 * BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning [Arxiv](https://arxiv.org/abs/1902.02671)
 * Multi-Task Deep Neural Networks for Natural Language Understanding [Arxiv](https://arxiv.org/abs/1901.11504)
+* Commonsense Reasoning for Natural Language Understanding: A Survey of Benchmarks, Resources, and Approaches [Arxiv](https://arxiv.org/abs/1904.01172)
 
 ## Machine Learning
 * Elements of Sequential Monte Carlo [Arxiv](https://arxiv.org/pdf/1903.04797)
