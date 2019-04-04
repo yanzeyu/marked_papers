@@ -40,6 +40,13 @@
 * BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning [Arxiv](https://arxiv.org/abs/1902.02671)
 * Multi-Task Deep Neural Networks for Natural Language Understanding [Arxiv](https://arxiv.org/abs/1901.11504)
 * Commonsense Reasoning for Natural Language Understanding: A Survey of Benchmarks, Resources, and Approaches [Arxiv](https://arxiv.org/abs/1904.01172)
+* 75 Languages, 1 Model: Parsing Universal Dependencies Universally [Arxiv](https://arxiv.org/abs/1904.02099)
+* Unsupervised Deep Structured Semantic Models for Commonsense Reasoning [Arxiv](https://arxiv.org/abs/1904.01938)
+* Neural Abstractive Text Summarization and Fake News Detection [Arxiv](https://arxiv.org/abs/1904.00788)
+* Automatic text summarization: What has been done and what has to be done [Arxiv](https://arxiv.org/abs/1904.00688)
+* Distant Supervision Relation Extraction with Intra-Bag and Inter-Bag Attentions [Arxiv](https://arxiv.org/abs/1904.00143)
+* Empirical Study of Deep Learning for Text Classification in Legal Document Review [Arxiv](https://arxiv.org/abs/1904.01723)
+* Cross-lingual transfer learning for spoken language understanding [Arxiv](https://arxiv.org/abs/1904.01825)
 
 ## Machine Learning
 * Elements of Sequential Monte Carlo [Arxiv](https://arxiv.org/pdf/1903.04797)
@@ -54,9 +61,11 @@
 * 样本不平衡问题 [知乎专栏](https://zhuanlan.zhihu.com/p/56882616)
 * SMOTE: Synthetic Minority Over-sampling Technique [Arxiv](https://arxiv.org/abs/1106.1813)
 * A Survey on Graph Kernels [Arxiv](https://arxiv.org/abs/1903.11835)
+* Optimization under Uncertainty in the Era of Big Data and Deep Learning: When Machine Learning Meets Mathematical Programming [Arxiv](https://arxiv.org/abs/1904.01934)
 
 ## Robotics
 * Flying through a narrow gap using neural network: an end-to-end planning and control approach [Arxiv](https://arxiv.org/abs/1903.09088)
+* Multidimensional Capacitive Sensing for Robot-Assisted Dressing and Bathing [Arxiv](https://arxiv.org/abs/1904.02111)
 
 ## Computer Vision
 * Transfer Adaptation Learning: A Decade Survey [Arxiv](https://arxiv.org/abs/1903.04687)
@@ -70,6 +79,10 @@
 * Learning with Batch-wise Optimal Transport Loss for 3D Shape Recognition [Arxiv](https://arxiv.org/abs/1903.08923)
 * MobileNetV2: Inverted Residuals and Linear Bottlenecks [Arxiv](https://arxiv.org/abs/1801.04381)
 * ThunderNet: Towards Real-time Generic Object Detection [Arxiv](https://arxiv.org/abs/1903.11752)
+* Multimodal Emotion Classification [Arxiv](https://arxiv.org/abs/1903.12520)
+* VideoBERT: A Joint Model for Video and Language Representation Learning [Arxiv](https://arxiv.org/abs/1904.01766)
+* M2KD: Multi-model and Multi-level Knowledge Distillation for Incremental Learning [Arxiv](https://arxiv.org/abs/1904.01769)
+* What is wrong with scene text recognition model comparisons? dataset and model analysis [Arxiv](https://arxiv.org/abs/1904.01906)
 
 ## Deep Learning(Reinforcement Learning and others)
 * Variational Auto-Decoder: Neural Generative Modeling from Partial Data [Arxiv](https://arxiv.org/abs/1903.00840)
