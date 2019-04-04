@@ -47,6 +47,7 @@
 * Distant Supervision Relation Extraction with Intra-Bag and Inter-Bag Attentions [Arxiv](https://arxiv.org/abs/1904.00143)
 * Empirical Study of Deep Learning for Text Classification in Legal Document Review [Arxiv](https://arxiv.org/abs/1904.01723)
 * Cross-lingual transfer learning for spoken language understanding [Arxiv](https://arxiv.org/abs/1904.01825)
+* R-grams: Unsupervised Learning of Semantic Units in Natural Language [Arxiv](https://arxiv.org/abs/1808.04670)
 
 ## Machine Learning
 * Elements of Sequential Monte Carlo [Arxiv](https://arxiv.org/pdf/1903.04797)
@@ -83,6 +84,7 @@
 * VideoBERT: A Joint Model for Video and Language Representation Learning [Arxiv](https://arxiv.org/abs/1904.01766)
 * M2KD: Multi-model and Multi-level Knowledge Distillation for Incremental Learning [Arxiv](https://arxiv.org/abs/1904.01769)
 * What is wrong with scene text recognition model comparisons? dataset and model analysis [Arxiv](https://arxiv.org/abs/1904.01906)
+* Sequential Attention GAN for Interactive Image Editing via Dialogue [Arxiv](https://arxiv.org/abs/1812.08352)
 
 ## Deep Learning(Reinforcement Learning and others)
 * Variational Auto-Decoder: Neural Generative Modeling from Partial Data [Arxiv](https://arxiv.org/abs/1903.00840)
@@ -115,3 +117,5 @@
 * An Introduction to Markov Chain Monte Carlo on Finite State Spaces [Arxiv](https://arxiv.org/abs/1903.09019)
 * Lecture notes on quantitative unique continuation for solutions of second order elliptic equations [Arxiv](https://arxiv.org/abs/1903.10619)
 * Lectures on Minimal Surfaces [Arxiv](https://arxiv.org/abs/1903.12062)
+* From Euclid to Riemann and Beyond [Arxiv](https://arxiv.org/abs/1904.01845)
+* On The Development of Nonlinear Operator Theory [Arxiv](https://arxiv.org/abs/1904.01900)
