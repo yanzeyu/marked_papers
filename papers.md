@@ -70,6 +70,7 @@
 * Multidimensional Capacitive Sensing for Robot-Assisted Dressing and Bathing [Arxiv](https://arxiv.org/abs/1904.02111)
 
 ## Computer Vision
+* Deep Learning for Object Detection: A Comprehensive Review [towardsdatascience.com](https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9)
 * Transfer Adaptation Learning: A Decade Survey [Arxiv](https://arxiv.org/abs/1903.04687)
 * MirrorGAN: Learning Text-to-image Generation by Redescription [Arxiv](https://arxiv.org/abs/1903.05854)
 * Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation [Arxiv](https://arxiv.org/abs/1811.10092)
