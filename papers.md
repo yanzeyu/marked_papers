@@ -49,6 +49,7 @@
 * Cross-lingual transfer learning for spoken language understanding [Arxiv](https://arxiv.org/abs/1904.01825)
 * R-grams: Unsupervised Learning of Semantic Units in Natural Language [Arxiv](https://arxiv.org/abs/1808.04670)
 * Large-Scale Named Entity Disambiguation Based on Wikipedia Data [Semantic Scholar PDF](https://pdfs.semanticscholar.org/1c90/9ac1c331c0c246a88da047cbdcca9ec9b7e7.pdf)
+* An Attentive Survey of Attention Models [Arxiv](https://arxiv.org/abs/1904.02874)
 
 ## Machine Learning
 * Elements of Sequential Monte Carlo [Arxiv](https://arxiv.org/pdf/1903.04797)
