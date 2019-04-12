@@ -65,6 +65,7 @@
 * SMOTE: Synthetic Minority Over-sampling Technique [Arxiv](https://arxiv.org/abs/1106.1813)
 * A Survey on Graph Kernels [Arxiv](https://arxiv.org/abs/1903.11835)
 * Optimization under Uncertainty in the Era of Big Data and Deep Learning: When Machine Learning Meets Mathematical Programming [Arxiv](https://arxiv.org/abs/1904.01934)
+* Few-shot Learning: A Survey [Arxiv](https://arxiv.org/abs/1904.05046)
 
 ## Robotics
 * Flying through a narrow gap using neural network: an end-to-end planning and control approach [Arxiv](https://arxiv.org/abs/1903.09088)
