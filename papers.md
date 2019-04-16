@@ -123,3 +123,4 @@
 * Lectures on Minimal Surfaces [Arxiv](https://arxiv.org/abs/1903.12062)
 * From Euclid to Riemann and Beyond [Arxiv](https://arxiv.org/abs/1904.01845)
 * On The Development of Nonlinear Operator Theory [Arxiv](https://arxiv.org/abs/1904.01900)
+* Introductory Lectures on Convex Programming Volume I: Basic course by Yu. Nesterov [PDF download](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.693.855&rep=rep1&type=pdf)
