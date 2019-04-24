@@ -50,6 +50,12 @@
 * R-grams: Unsupervised Learning of Semantic Units in Natural Language [Arxiv](https://arxiv.org/abs/1808.04670)
 * Large-Scale Named Entity Disambiguation Based on Wikipedia Data [Semantic Scholar PDF](https://pdfs.semanticscholar.org/1c90/9ac1c331c0c246a88da047cbdcca9ec9b7e7.pdf)
 * An Attentive Survey of Attention Models [Arxiv](https://arxiv.org/abs/1904.02874)
+* Understanding Roles and Entities: Datasets and Models for Natural Language Inference [Arxiv](https://arxiv.org/abs/1904.09720)
+* Few-shot NLG with Pre-trained Language Model [Arxiv](https://arxiv.org/abs/1904.09521)
+* PullNet: Open Domain Question Answering with Iterative Retrieval on Knowledge Bases and Text [Arxiv](https://arxiv.org/abs/1904.09537)
+* Challenges and Prospects in Vision and Language Research [Arxiv](https://arxiv.org/abs/1904.09317)
+* Text Classification Algorithms: A Survey [Arxiv](https://arxiv.org/abs/1904.08067)
+* Wasserstein-Fisher-Rao Document Distance [Arxiv](https://arxiv.org/abs/1904.10294)
 
 ## Machine Learning
 * Elements of Sequential Monte Carlo [Arxiv](https://arxiv.org/pdf/1903.04797)
@@ -66,6 +72,10 @@
 * A Survey on Graph Kernels [Arxiv](https://arxiv.org/abs/1903.11835)
 * Optimization under Uncertainty in the Era of Big Data and Deep Learning: When Machine Learning Meets Mathematical Programming [Arxiv](https://arxiv.org/abs/1904.01934)
 * Few-shot Learning: A Survey [Arxiv](https://arxiv.org/abs/1904.05046)
+* GraphNAS: Graph Neural Architecture Search with Reinforcement Learning [Arxiv](https://arxiv.org/abs/1904.09981)
+* A Survey on Practical Applications of Multi-Armed and Contextual Bandits [Arxiv](https://arxiv.org/abs/1904.10040)
+* A Survey of Learning Causality with Data: Problems and Methods [Arxiv](https://arxiv.org/abs/1809.09337)
+* Graph Neural Networks with convolutional ARMA filters [Arxiv](https://arxiv.org/abs/1901.01343)
 
 ## Robotics
 * Flying through a narrow gap using neural network: an end-to-end planning and control approach [Arxiv](https://arxiv.org/abs/1903.09088)
@@ -89,6 +99,8 @@
 * M2KD: Multi-model and Multi-level Knowledge Distillation for Incremental Learning [Arxiv](https://arxiv.org/abs/1904.01769)
 * What is wrong with scene text recognition model comparisons? dataset and model analysis [Arxiv](https://arxiv.org/abs/1904.01906)
 * Sequential Attention GAN for Interactive Image Editing via Dialogue [Arxiv](https://arxiv.org/abs/1812.08352)
+* CornerNet: Detecting Objects as Paired Keypoints [Arxiv](https://arxiv.org/abs/1808.01244)
+* Meta-Learning with Differentiable Convex Optimization [Arxiv](https://arxiv.org/abs/1904.03758)
 
 ## Deep Learning(Reinforcement Learning and others)
 * Variational Auto-Decoder: Neural Generative Modeling from Partial Data [Arxiv](https://arxiv.org/abs/1903.00840)
@@ -124,3 +136,6 @@
 * From Euclid to Riemann and Beyond [Arxiv](https://arxiv.org/abs/1904.01845)
 * On The Development of Nonlinear Operator Theory [Arxiv](https://arxiv.org/abs/1904.01900)
 * Introductory Lectures on Convex Programming Volume I: Basic course by Yu. Nesterov [PDF download](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.693.855&rep=rep1&type=pdf)
+* Topics in Applied Mathematics and Nonlinear Waves [Arxiv](https://arxiv.org/abs/1904.07702)
+* TASI lectures on dark matter models and direct detection [Arxiv](https://arxiv.org/abs/1904.07915)
+* Algebraic Quantum Field Theory - an introduction [Arxiv](https://arxiv.org/abs/1904.04051)
