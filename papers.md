@@ -76,6 +76,7 @@
 * A Survey on Practical Applications of Multi-Armed and Contextual Bandits [Arxiv](https://arxiv.org/abs/1904.10040)
 * A Survey of Learning Causality with Data: Problems and Methods [Arxiv](https://arxiv.org/abs/1809.09337)
 * Graph Neural Networks with convolutional ARMA filters [Arxiv](https://arxiv.org/abs/1901.01343)
+* A Survey on Data Collection for Machine Learning: a Big Data - AI Integration Perspective [Arxiv](https://arxiv.org/abs/1811.03402)
 
 ## Robotics
 * Flying through a narrow gap using neural network: an end-to-end planning and control approach [Arxiv](https://arxiv.org/abs/1903.09088)
