@@ -96,6 +96,8 @@
 ## Robotics
 * Flying through a narrow gap using neural network: an end-to-end planning and control approach [Arxiv](https://arxiv.org/abs/1903.09088)
 * Multidimensional Capacitive Sensing for Robot-Assisted Dressing and Bathing [Arxiv](https://arxiv.org/abs/1904.02111)
+* Human Motion Trajectory Prediction: A Survey [Arxiv](https://arxiv.org/abs/1905.06113)
+* Multi-Agent Image Classification via Reinforcement Learning [Arxiv](https://arxiv.org/abs/1905.04835)
 
 ## Computer Vision
 * Deep Learning for Object Detection: A Comprehensive Review [towardsdatascience.com](https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9)
