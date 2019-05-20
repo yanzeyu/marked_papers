@@ -1,5 +1,8 @@
 ## Natural Language Processing
 * Sebastian Ruder's [blog](http://ruder.io/)
+* MASS: Masked Sequence to Sequence Pre-training for Language Generation [Arxiv](https://arxiv.org/abs/1905.02450)
+* Unified Language Model Pre-training for Natural Language Understanding and Generation [Arxiv](https://arxiv.org/abs/1905.03197)
+* ERNIE: Enhanced Language Representation with Informative Entities [Arxiv](https://arxiv.org/abs/1905.07129)
 * Practical Semantic Parsing for Spoken Language Understanding [Arxiv](https://arxiv.org/abs/1903.04521)
 * Few-Shot and Zero-Shot Learning for Historical Text Normalization [Arxiv](https://arxiv.org/abs/1903.04870)
 * Constituent Parsing as Sequence Labeling [ACLweb](http://aclweb.org/anthology/D18-1162)
@@ -56,6 +59,16 @@
 * Challenges and Prospects in Vision and Language Research [Arxiv](https://arxiv.org/abs/1904.09317)
 * Text Classification Algorithms: A Survey [Arxiv](https://arxiv.org/abs/1904.08067)
 * Wasserstein-Fisher-Rao Document Distance [Arxiv](https://arxiv.org/abs/1904.10294)
+* A Simple Dual-decoder Model for Generating Response with Sentiment [Arxiv](https://arxiv.org/abs/1905.06597)
+* Multi-task Learning for Multi-modal Emotion Recognition and Sentiment Analysis [Arxiv](https://arxiv.org/abs/1905.05812)
+* Dual Supervised Learning for Natural Language Understanding and Generation [Arxiv](https://arxiv.org/abs/1905.06196)
+* A Survey of Multilingual Neural Machine Translation [Arxiv](https://arxiv.org/abs/1905.05395)
+* A Review of Keyphrase Extraction [Arxiv](https://arxiv.org/abs/1905.05044)
+* A Benchmark Study on Machine Learning Methods for Fake News Detection [Arxiv](https://arxiv.org/abs/1905.04749)
+* Entity-Relation Extraction as Multi-Turn Question Answering [Arxiv](https://arxiv.org/abs/1905.05529)
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
 
 ## Machine Learning
 * Elements of Sequential Monte Carlo [Arxiv](https://arxiv.org/pdf/1903.04797)
