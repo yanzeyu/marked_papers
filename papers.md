@@ -69,6 +69,7 @@
 * SentiGAN: Generating Sentimental Texts via Mixture Adversarial Networks [IJCAI pdf](https://www.ijcai.org/proceedings/2018/0618.pdf)
 * Reference-Based Sequence Classification [Arxiv](https://arxiv.org/abs/1905.07188)
 * Distant Learning for Entity Linking with Automatic Noise Detection [Arxiv](https://arxiv.org/abs/1905.07189)
+* Data Noising as Smoothing in Neural Network Language Models [Arxiv](https://arxiv.org/abs/1703.02573)
 
 ## Machine Learning
 * Elements of Sequential Monte Carlo [Arxiv](https://arxiv.org/pdf/1903.04797)
