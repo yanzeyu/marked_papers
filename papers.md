@@ -66,9 +66,9 @@
 * A Review of Keyphrase Extraction [Arxiv](https://arxiv.org/abs/1905.05044)
 * A Benchmark Study on Machine Learning Methods for Fake News Detection [Arxiv](https://arxiv.org/abs/1905.04749)
 * Entity-Relation Extraction as Multi-Turn Question Answering [Arxiv](https://arxiv.org/abs/1905.05529)
-*  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
+* SentiGAN: Generating Sentimental Texts via Mixture Adversarial Networks [IJCAI pdf](https://www.ijcai.org/proceedings/2018/0618.pdf)
+* Reference-Based Sequence Classification [Arxiv](https://arxiv.org/abs/1905.07188)
+* Distant Learning for Entity Linking with Automatic Noise Detection [Arxiv](https://arxiv.org/abs/1905.07189)
 
 ## Machine Learning
 * Elements of Sequential Monte Carlo [Arxiv](https://arxiv.org/pdf/1903.04797)
@@ -90,6 +90,7 @@
 * A Survey of Learning Causality with Data: Problems and Methods [Arxiv](https://arxiv.org/abs/1809.09337)
 * Graph Neural Networks with convolutional ARMA filters [Arxiv](https://arxiv.org/abs/1901.01343)
 * A Survey on Data Collection for Machine Learning: a Big Data - AI Integration Perspective [Arxiv](https://arxiv.org/abs/1811.03402)
+* Dream Distillation: A Data-Independent Model Compression Framework [Arxiv](https://arxiv.org/abs/1905.07072)
 
 ## Robotics
 * Flying through a narrow gap using neural network: an end-to-end planning and control approach [Arxiv](https://arxiv.org/abs/1903.09088)
