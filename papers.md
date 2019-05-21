@@ -14,6 +14,8 @@
 * The Probabilistic Relevance Framework:BM25 and Beyond [Mcirosoft & Yahoo Research](http://www.staff.city.ac.uk/~sb317/papers/foundations_bm25_review.pdf)
 * Neural Approaches to Conversational AI: Question Answering, Task-oriented Dialogues and Social Chatbots [Arxiv](https://arxiv.org/abs/1809.08267)
 * Review of Deep Learning [Arxiv](https://arxiv.org/abs/1804.01653) in **Chinese**
+* Learning to Memorize in Neural Task-Oriented Dialogue Systems [Arxiv](https://arxiv.org/abs/1905.07687)
+* Image Captioning based on Deep Learning Methods: A Survey [Arxiv](https://arxiv.org/abs/1905.08110)
 * Syntax-aware Neural Semantic Role Labeling with Supertags [Arxiv](https://arxiv.org/abs/1903.05260)
 * ONENET: JOINT DOMAIN, INTENT, SLOT PREDICTION FOR SPOKEN LANGUAGE UNDERSTANDING [Arxiv](https://arxiv.org/abs/1801.05149)
 * Text Summarization Techniques: A Brief Survey [Arxiv](https://arxiv.org/abs/1707.02268)
@@ -73,6 +75,9 @@
 * Reference-Based Sequence Classification [Arxiv](https://arxiv.org/abs/1905.07188)
 * Distant Learning for Entity Linking with Automatic Noise Detection [Arxiv](https://arxiv.org/abs/1905.07189)
 * Data Noising as Smoothing in Neural Network Language Models [Arxiv](https://arxiv.org/abs/1703.02573)
+* Spelling Correction as a Foreign Language [Arxiv](https://arxiv.org/abs/1705.07371)
+* The Evolved Transformer [Arxiv](https://arxiv.org/abs/1901.11117)
+* Text Generation from Knowledge Graphs with Graph Transformers [Arxiv](https://arxiv.org/abs/1904.02342)
 
 ## Machine Learning
 * Elements of Sequential Monte Carlo [Arxiv](https://arxiv.org/pdf/1903.04797)
@@ -96,6 +101,11 @@
 * A Survey on Data Collection for Machine Learning: a Big Data - AI Integration Perspective [Arxiv](https://arxiv.org/abs/1811.03402)
 * Dream Distillation: A Data-Independent Model Compression Framework [Arxiv](https://arxiv.org/abs/1905.07072)
 * Multimodal Machine Learning: A Survey and Taxonomy [Arxiv](https://arxiv.org/abs/1705.09406)
+* KGAT: Knowledge Graph Attention Network for Recommendation [Arxiv](https://arxiv.org/abs/1905.07854)
+* Zero-Shot Knowledge Distillation in Deep Networks [Arxiv](https://arxiv.org/abs/1905.08114)
+* Control Theory Meets POMDPs: A Hybrid Systems Approach [Arxiv](https://arxiv.org/abs/1905.08095)
+* A Bayesian Approach to Robust Reinforcement Learning [Arxiv](https://arxiv.org/abs/1905.08188)
+* Techniques for Interpretable Machine Learning [Arxiv](https://arxiv.org/abs/1808.00033)
 
 ## Robotics
 * Flying through a narrow gap using neural network: an end-to-end planning and control approach [Arxiv](https://arxiv.org/abs/1903.09088)
@@ -123,6 +133,9 @@
 * Sequential Attention GAN for Interactive Image Editing via Dialogue [Arxiv](https://arxiv.org/abs/1812.08352)
 * CornerNet: Detecting Objects as Paired Keypoints [Arxiv](https://arxiv.org/abs/1808.01244)
 * Meta-Learning with Differentiable Convex Optimization [Arxiv](https://arxiv.org/abs/1904.03758)
+* Which Tasks Should Be Learned Together in Multi-task Learning? [Arxiv](https://arxiv.org/abs/1905.07553)
+* Adversarially robust transfer learning [Arxiv](https://arxiv.org/abs/1905.08232)
+* Recent Advances in Transfer Learning for Cross-Dataset Visual Recognition: A Problem-Oriented Perspective [Arxiv](https://arxiv.org/abs/1705.04396)
 
 ## Deep Learning(Reinforcement Learning and others)
 * Variational Auto-Decoder: Neural Generative Modeling from Partial Data [Arxiv](https://arxiv.org/abs/1903.00840)
@@ -161,3 +174,10 @@
 * Topics in Applied Mathematics and Nonlinear Waves [Arxiv](https://arxiv.org/abs/1904.07702)
 * TASI lectures on dark matter models and direct detection [Arxiv](https://arxiv.org/abs/1904.07915)
 * Algebraic Quantum Field Theory - an introduction [Arxiv](https://arxiv.org/abs/1904.04051)
+* A Dynamical Systems Perspective on Nesterov Acceleration [Arxiv](https://arxiv.org/abs/1905.07436)
+* Differential Equation over Banach Algebra [Arxiv](https://arxiv.org/abs/1801.01628)
+* Foundations of quantum physics V. Coherent foundations [Arxiv](https://arxiv.org/abs/1905.00920)
+* Foundations of quantum physics IV. More on the thermal interpretation [Arxiv](https://arxiv.org/abs/1904.12721)
+* Foundations of quantum physics III. Measurement [Arxiv](https://arxiv.org/abs/1902.10782)
+* Foundations of quantum physics II. The thermal interpretation [Arxiv](https://arxiv.org/abs/1902.10779)
+* Foundations of quantum physics I. A critique of the tradition [Arxiv](https://arxiv.org/abs/1902.10778)
