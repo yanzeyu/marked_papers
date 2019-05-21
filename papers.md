@@ -95,6 +95,7 @@
 * Graph Neural Networks with convolutional ARMA filters [Arxiv](https://arxiv.org/abs/1901.01343)
 * A Survey on Data Collection for Machine Learning: a Big Data - AI Integration Perspective [Arxiv](https://arxiv.org/abs/1811.03402)
 * Dream Distillation: A Data-Independent Model Compression Framework [Arxiv](https://arxiv.org/abs/1905.07072)
+* Multimodal Machine Learning: A Survey and Taxonomy [Arxiv](https://arxiv.org/abs/1705.09406)
 
 ## Robotics
 * Flying through a narrow gap using neural network: an end-to-end planning and control approach [Arxiv](https://arxiv.org/abs/1903.09088)
