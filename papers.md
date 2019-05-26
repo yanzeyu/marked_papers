@@ -78,6 +78,14 @@
 * Spelling Correction as a Foreign Language [Arxiv](https://arxiv.org/abs/1705.07371)
 * The Evolved Transformer [Arxiv](https://arxiv.org/abs/1901.11117)
 * Text Generation from Knowledge Graphs with Graph Transformers [Arxiv](https://arxiv.org/abs/1904.02342)
+* Recent Advances in Neural Question Generation [Arxiv](https://arxiv.org/abs/1905.08949)
+* Transferable Multi-Domain State Generator for Task-Oriented Dialogue Systems [Arxiv](https://arxiv.org/abs/1905.08743)
+* Answering while Summarizing: Multi-task Learning for Multi-hop QA with Evidence Extraction [Arxiv](https://arxiv.org/abs/1905.08511)
+* Towards Complex Text-to-SQL in Cross-Domain Database with Intermediate Representation [Arxiv](https://arxiv.org/abs/1905.08205)
+* Image Captioning based on Deep Learning Methods: A Survey [Arxiv](https://arxiv.org/abs/1905.08110)
+* An Investigation of Transfer Learning-Based Sentiment Analysis in Japanese [Arxiv](https://arxiv.org/abs/1905.09642)
+* Distilling the Knowledge in a Neural Network [Arxiv](https://arxiv.org/abs/1503.02531)
+* Adversarially Robust Distillation [Arxiv](https://arxiv.org/abs/1905.09747)
 
 ## Machine Learning
 * Elements of Sequential Monte Carlo [Arxiv](https://arxiv.org/pdf/1903.04797)
