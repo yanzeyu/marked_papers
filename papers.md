@@ -86,6 +86,7 @@
 * An Investigation of Transfer Learning-Based Sentiment Analysis in Japanese [Arxiv](https://arxiv.org/abs/1905.09642)
 * Distilling the Knowledge in a Neural Network [Arxiv](https://arxiv.org/abs/1503.02531)
 * Adversarially Robust Distillation [Arxiv](https://arxiv.org/abs/1905.09747)
+* Sampling Matters in Deep Embedding Learning [Arxiv](https://arxiv.org/abs/1706.07567)
 
 ## Machine Learning
 * Elements of Sequential Monte Carlo [Arxiv](https://arxiv.org/pdf/1903.04797)
