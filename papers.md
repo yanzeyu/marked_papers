@@ -158,6 +158,7 @@
 * Neural Architecture Search with Bayesian Optimisation and Optimal Transport [Arxiv](https://arxiv.org/abs/1802.07191)
 * A Comprehensive Comparison of Unsupervised Network Representation Learning Methods [Arxiv](https://arxiv.org/abs/1903.07902)
 * How Does Batch Normalization Help Optimization? [Arxiv](https://arxiv.org/abs/1805.11604)
+* On Loss Functions for Deep Neural Networks in Classification [Arxiv](https://arxiv.org/abs/1702.05659)
 
 ## Mathematics
 * An invitation to Gabor analysis [Arxiv](https://arxiv.org/pdf/1812.08647)
