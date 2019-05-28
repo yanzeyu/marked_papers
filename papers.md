@@ -146,6 +146,7 @@
 * Which Tasks Should Be Learned Together in Multi-task Learning? [Arxiv](https://arxiv.org/abs/1905.07553)
 * Adversarially robust transfer learning [Arxiv](https://arxiv.org/abs/1905.08232)
 * Recent Advances in Transfer Learning for Cross-Dataset Visual Recognition: A Problem-Oriented Perspective [Arxiv](https://arxiv.org/abs/1705.04396)
+* Object Detection in 20 Years: A Survey [Arxiv](https://arxiv.org/abs/1905.05055)
 
 ## Deep Learning(Reinforcement Learning and others)
 * Variational Auto-Decoder: Neural Generative Modeling from Partial Data [Arxiv](https://arxiv.org/abs/1903.00840)
