@@ -87,6 +87,12 @@
 * Distilling the Knowledge in a Neural Network [Arxiv](https://arxiv.org/abs/1503.02531)
 * Adversarially Robust Distillation [Arxiv](https://arxiv.org/abs/1905.09747)
 * Sampling Matters in Deep Embedding Learning [Arxiv](https://arxiv.org/abs/1706.07567)
+* AgentGraph: Towards Universal Dialogue Management with Structured Deep Reinforcement Learning [Arxiv](https://arxiv.org/abs/1905.11259)
+* A Dual Reinforcement Learning Framework for Unsupervised Text Style Transfer [Arxiv](https://arxiv.org/abs/1905.10060)
+* Commonsense Properties from Query Logs and Question Anwering Forums [Arxiv](https://arxiv.org/abs/1905.10989)
+* Levenshtein Transformer [Arxiv](https://arxiv.org/abs/1905.11006)
+* Chinese User Service Intention Classification Based on Hybrid Neural Network [Arxiv](https://arxiv.org/abs/1809.09408)
+* Recent Advances in Neural Question Generation [Arxiv](https://arxiv.org/abs/1905.08949)
 
 ## Machine Learning
 * Elements of Sequential Monte Carlo [Arxiv](https://arxiv.org/pdf/1903.04797)
@@ -115,6 +121,8 @@
 * Control Theory Meets POMDPs: A Hybrid Systems Approach [Arxiv](https://arxiv.org/abs/1905.08095)
 * A Bayesian Approach to Robust Reinforcement Learning [Arxiv](https://arxiv.org/abs/1905.08188)
 * Techniques for Interpretable Machine Learning [Arxiv](https://arxiv.org/abs/1808.00033)
+* Machine Learning for Fluid Mechanics [Arxiv](https://arxiv.org/abs/1905.11075)
+* Variational Auto-Decoder [Arxiv](https://arxiv.org/abs/1903.00840)
 
 ## Robotics
 * Flying through a narrow gap using neural network: an end-to-end planning and control approach [Arxiv](https://arxiv.org/abs/1903.09088)
@@ -147,6 +155,7 @@
 * Adversarially robust transfer learning [Arxiv](https://arxiv.org/abs/1905.08232)
 * Recent Advances in Transfer Learning for Cross-Dataset Visual Recognition: A Problem-Oriented Perspective [Arxiv](https://arxiv.org/abs/1705.04396)
 * Object Detection in 20 Years: A Survey [Arxiv](https://arxiv.org/abs/1905.05055)
+* Constellation Loss: Improving the efficiency of deep metric learning loss functions for optimal embedding [Arxiv](https://arxiv.org/abs/1905.10675)
 
 ## Deep Learning(Reinforcement Learning and others)
 * Variational Auto-Decoder: Neural Generative Modeling from Partial Data [Arxiv](https://arxiv.org/abs/1903.00840)
@@ -160,6 +169,8 @@
 * A Comprehensive Comparison of Unsupervised Network Representation Learning Methods [Arxiv](https://arxiv.org/abs/1903.07902)
 * How Does Batch Normalization Help Optimization? [Arxiv](https://arxiv.org/abs/1805.11604)
 * On Loss Functions for Deep Neural Networks in Classification [Arxiv](https://arxiv.org/abs/1702.05659)
+* Reinforcement Leaning in Feature Space: Matrix Bandit, Kernels, and Regret Bound [Arxiv](https://arxiv.org/abs/1905.10389)
+* Natural Compression for Distributed Deep Learning [Arxiv](https://arxiv.org/abs/1905.10988)
 
 ## Mathematics
 * An invitation to Gabor analysis [Arxiv](https://arxiv.org/pdf/1812.08647)
