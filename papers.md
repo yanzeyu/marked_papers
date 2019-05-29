@@ -123,6 +123,7 @@
 * Techniques for Interpretable Machine Learning [Arxiv](https://arxiv.org/abs/1808.00033)
 * Machine Learning for Fluid Mechanics [Arxiv](https://arxiv.org/abs/1905.11075)
 * Variational Auto-Decoder [Arxiv](https://arxiv.org/abs/1903.00840)
+* State Representation Learning for Control: An Overview [Arxiv](https://arxiv.org/abs/1802.04181)
 
 ## Robotics
 * Flying through a narrow gap using neural network: an end-to-end planning and control approach [Arxiv](https://arxiv.org/abs/1903.09088)
