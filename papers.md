@@ -157,6 +157,7 @@
 * Recent Advances in Transfer Learning for Cross-Dataset Visual Recognition: A Problem-Oriented Perspective [Arxiv](https://arxiv.org/abs/1705.04396)
 * Object Detection in 20 Years: A Survey [Arxiv](https://arxiv.org/abs/1905.05055)
 * Constellation Loss: Improving the efficiency of deep metric learning loss functions for optimal embedding [Arxiv](https://arxiv.org/abs/1905.10675)
+* Deep Learning for Image Super-resolution: A Survey [Arxiv](https://arxiv.org/abs/1902.06068)
 
 ## Deep Learning(Reinforcement Learning and others)
 * Variational Auto-Decoder: Neural Generative Modeling from Partial Data [Arxiv](https://arxiv.org/abs/1903.00840)
