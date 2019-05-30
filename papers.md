@@ -93,6 +93,8 @@
 * Levenshtein Transformer [Arxiv](https://arxiv.org/abs/1905.11006)
 * Chinese User Service Intention Classification Based on Hybrid Neural Network [Arxiv](https://arxiv.org/abs/1809.09408)
 * Recent Advances in Neural Question Generation [Arxiv](https://arxiv.org/abs/1905.08949)
+* One-Shot Learning for Text-to-SQL Generation [Arxiv](https://arxiv.org/abs/1905.11499)
+* FastSpeech: Fast, Robust and Controllable Text to Speech [Arxiv](https://arxiv.org/abs/1905.09263)
 
 ## Machine Learning
 * Elements of Sequential Monte Carlo [Arxiv](https://arxiv.org/pdf/1903.04797)
@@ -158,6 +160,7 @@
 * Object Detection in 20 Years: A Survey [Arxiv](https://arxiv.org/abs/1905.05055)
 * Constellation Loss: Improving the efficiency of deep metric learning loss functions for optimal embedding [Arxiv](https://arxiv.org/abs/1905.10675)
 * Deep Learning for Image Super-resolution: A Survey [Arxiv](https://arxiv.org/abs/1902.06068)
+* KG-GAN: Knowledge-Guided Generative Adversarial Networks [Arxiv](https://arxiv.org/abs/1905.12261)
 
 ## Deep Learning(Reinforcement Learning and others)
 * Variational Auto-Decoder: Neural Generative Modeling from Partial Data [Arxiv](https://arxiv.org/abs/1903.00840)
@@ -173,6 +176,7 @@
 * On Loss Functions for Deep Neural Networks in Classification [Arxiv](https://arxiv.org/abs/1702.05659)
 * Reinforcement Leaning in Feature Space: Matrix Bandit, Kernels, and Regret Bound [Arxiv](https://arxiv.org/abs/1905.10389)
 * Natural Compression for Distributed Deep Learning [Arxiv](https://arxiv.org/abs/1905.10988)
+* A Theoretical Analysis of Deep Q-Learning [Arxiv](https://arxiv.org/abs/1901.00137)
 
 ## Mathematics
 * An invitation to Gabor analysis [Arxiv](https://arxiv.org/pdf/1812.08647)
