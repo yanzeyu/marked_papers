@@ -109,7 +109,7 @@
 * How to best use Syntax in Semantic Role Labelling [Arxiv](https://arxiv.org/abs/1906.00266)
 * Unsupervised Neural Generative Semantic Hashing [Arxiv](https://arxiv.org/abs/1906.00671)
 * A NLI Tutorial [Github](https://nlitutorial.github.io/nli_tutorial.pdf)
-*  [Arxiv]()
+* Semantic Hashing [cs.utoronto](https://www.cs.utoronto.ca/~rsalakhu/papers/semantic_final.pdf)
 *  [Arxiv]()
 *  [Arxiv]()
 *  [Arxiv]()
