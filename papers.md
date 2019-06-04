@@ -95,6 +95,34 @@
 * Recent Advances in Neural Question Generation [Arxiv](https://arxiv.org/abs/1905.08949)
 * One-Shot Learning for Text-to-SQL Generation [Arxiv](https://arxiv.org/abs/1905.11499)
 * FastSpeech: Fast, Robust and Controllable Text to Speech [Arxiv](https://arxiv.org/abs/1905.09263)
+* Massive Styles Transfer with Limited Labeled Data [Arxiv](https://arxiv.org/abs/1906.00580)
+* Jointly Learning Semantic Parser and Natural Language Generator via Dual Information Maximization [Arxiv](https://arxiv.org/abs/1906.00575)
+* A Survey of Natural Language Generation Techniques with a Focus on Dialogue Systems - Past, Present and Future Directions [Arxiv](https://arxiv.org/abs/1906.00500)
+* A Semi-Supervised Approach for Low-Resourced Text Generation [Arxiv](https://arxiv.org/abs/1906.00584)
+* MultiQA: An Empirical Investigation of Generalization and Transfer in Reading Comprehension [Arxiv](https://arxiv.org/abs/1905.13453)
+* Siamese recurrent networks learn first-order logic reasoning and exhibit zero-shot compositional generalization [Arxiv](https://arxiv.org/abs/1906.00180)
+* Grammar-based Neural Text-to-SQL Generation [Arxiv](https://arxiv.org/abs/1905.13326)
+* Interpretable Adversarial Training for Text [Arxiv](https://arxiv.org/abs/1905.12864)
+* Large Scale Question Paraphrase Retrieval with Smoothed Deep Metric Learning [Arxiv](https://arxiv.org/abs/1905.12786)
+* Automatic Ambiguity Detection [Arxiv](https://arxiv.org/abs/1905.12065)
+* XLDA: Cross-Lingual Data Augmentation for Natural Language Inference and Question Answering [Arxiv](https://arxiv.org/abs/1905.11471)
+* How to best use Syntax in Semantic Role Labelling [Arxiv](https://arxiv.org/abs/1906.00266)
+* Unsupervised Neural Generative Semantic Hashing [Arxiv](https://arxiv.org/abs/1906.00671)
+* A NLI Tutorial [Github](https://nlitutorial.github.io/nli_tutorial.pdf)
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
+
 
 ## Machine Learning
 * Elements of Sequential Monte Carlo [Arxiv](https://arxiv.org/pdf/1903.04797)
@@ -127,6 +155,7 @@
 * Variational Auto-Decoder [Arxiv](https://arxiv.org/abs/1903.00840)
 * State Representation Learning for Control: An Overview [Arxiv](https://arxiv.org/abs/1802.04181)
 * Automatic differentiation in machine learning: a survey [Arxiv](https://arxiv.org/abs/1502.05767)
+* A Topology Layer for Machine Learning [Arxiv](https://arxiv.org/abs/1905.12200)
 
 ## Robotics
 * Flying through a narrow gap using neural network: an end-to-end planning and control approach [Arxiv](https://arxiv.org/abs/1903.09088)
@@ -134,6 +163,7 @@
 * Human Motion Trajectory Prediction: A Survey [Arxiv](https://arxiv.org/abs/1905.06113)
 * Multi-Agent Image Classification via Reinforcement Learning [Arxiv](https://arxiv.org/abs/1905.04835)
 * Stanford Doggo: An Open-Source, Quasi-Direct-Drive Quadruped [Arxiv](https://arxiv.org/abs/1905.04254)
+* A survey on policy search algorithms for learning robot controllers in a handful of trials [Arxiv](https://arxiv.org/abs/1807.02303)
 
 ## Computer Vision
 * Deep Learning for Object Detection: A Comprehensive Review [towardsdatascience.com](https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9)
@@ -162,6 +192,11 @@
 * Constellation Loss: Improving the efficiency of deep metric learning loss functions for optimal embedding [Arxiv](https://arxiv.org/abs/1905.10675)
 * Deep Learning for Image Super-resolution: A Survey [Arxiv](https://arxiv.org/abs/1902.06068)
 * KG-GAN: Knowledge-Guided Generative Adversarial Networks [Arxiv](https://arxiv.org/abs/1905.12261)
+* Zero-Shot Semantic Segmentation [Arxiv](https://arxiv.org/abs/1906.00817)
+* Deep Learning for Generic Object Detection: A Survey [Arxiv](https://arxiv.org/abs/1809.02165)
+* The Omniglot challenge: a 3-year progress report [Arxiv](https://arxiv.org/abs/1902.03477)
+* Hand Pose Estimation: A Survey [Arxiv](https://arxiv.org/abs/1903.01013)
+* Focal Visual-Text Attention for Visual Question Answering [Arxiv](https://arxiv.org/abs/1806.01873)
 
 ## Deep Learning(Reinforcement Learning and others)
 * Variational Auto-Decoder: Neural Generative Modeling from Partial Data [Arxiv](https://arxiv.org/abs/1903.00840)
@@ -178,6 +213,10 @@
 * Reinforcement Leaning in Feature Space: Matrix Bandit, Kernels, and Regret Bound [Arxiv](https://arxiv.org/abs/1905.10389)
 * Natural Compression for Distributed Deep Learning [Arxiv](https://arxiv.org/abs/1905.10988)
 * A Theoretical Analysis of Deep Q-Learning [Arxiv](https://arxiv.org/abs/1901.00137)
+* Blockchain for Internet of Things: A Survey [Arxiv](https://arxiv.org/abs/1906.00245)
+* An Empirical Study on Hyperparameters and their Interdependence for RL Generalization [Arxiv](https://arxiv.org/abs/1906.00431)
+* Learning to Self-Train for Semi-Supervised Few-Shot Classification [Arxiv](https://arxiv.org/abs/1906.00562)
+* Online Meta-Learning [Arxiv](https://arxiv.org/abs/1902.08438)
 
 ## Mathematics
 * An invitation to Gabor analysis [Arxiv](https://arxiv.org/pdf/1812.08647)
@@ -212,3 +251,5 @@
 * Foundations of quantum physics III. Measurement [Arxiv](https://arxiv.org/abs/1902.10782)
 * Foundations of quantum physics II. The thermal interpretation [Arxiv](https://arxiv.org/abs/1902.10779)
 * Foundations of quantum physics I. A critique of the tradition [Arxiv](https://arxiv.org/abs/1902.10778)
+* Optimal transport and information geometry [Arxiv](https://arxiv.org/abs/1906.00030)
+* Mean Field Analysis of Neural Networks: A Central Limit Theorem [Arxiv](https://arxiv.org/abs/1808.09372)
