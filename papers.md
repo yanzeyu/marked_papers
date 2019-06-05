@@ -112,8 +112,7 @@
 * Semantic Hashing [cs.utoronto](https://www.cs.utoronto.ca/~rsalakhu/papers/semantic_final.pdf) or [cs.cmu](https://www.cs.cmu.edu/~rsalakhu/papers/sdarticle.pdf)
 * Is it Time to Swish? Comparing Deep Learning Activation Functions Across NLP tasks [ACLweb](https://www.aclweb.org/anthology/D18-1472)
 * 7 Types of Neural Network Activation Functions: How to Choose? [missinglink.ai](https://missinglink.ai/guides/neural-network-concepts/7-types-neural-network-activation-functions-right/)
-*  [Arxiv]()
-*  [Arxiv]()
+* A Study of Feature Extraction techniques for Sentiment Analysis [Arxiv](https://arxiv.org/abs/1906.01573)
 *  [Arxiv]()
 *  [Arxiv]()
 *  [Arxiv]()
@@ -156,6 +155,7 @@
 * State Representation Learning for Control: An Overview [Arxiv](https://arxiv.org/abs/1802.04181)
 * Automatic differentiation in machine learning: a survey [Arxiv](https://arxiv.org/abs/1502.05767)
 * A Topology Layer for Machine Learning [Arxiv](https://arxiv.org/abs/1905.12200)
+* Generative Adversarial Networks: A Survey and Taxonomy [Arxiv](https://arxiv.org/abs/1906.01529)
 
 ## Robotics
 * Flying through a narrow gap using neural network: an end-to-end planning and control approach [Arxiv](https://arxiv.org/abs/1903.09088)
