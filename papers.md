@@ -113,7 +113,7 @@
 * Is it Time to Swish? Comparing Deep Learning Activation Functions Across NLP tasks [ACLweb](https://www.aclweb.org/anthology/D18-1472)
 * 7 Types of Neural Network Activation Functions: How to Choose? [missinglink.ai](https://missinglink.ai/guides/neural-network-concepts/7-types-neural-network-activation-functions-right/)
 * A Study of Feature Extraction techniques for Sentiment Analysis [Arxiv](https://arxiv.org/abs/1906.01573)
-*  [Arxiv]()
+* Scaling Up All Pairs Similarity Search [Google Research](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/32781.pdf)
 *  [Arxiv]()
 *  [Arxiv]()
 *  [Arxiv]()
