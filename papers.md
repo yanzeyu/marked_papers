@@ -114,6 +114,16 @@
 * 7 Types of Neural Network Activation Functions: How to Choose? [missinglink.ai](https://missinglink.ai/guides/neural-network-concepts/7-types-neural-network-activation-functions-right/)
 * A Study of Feature Extraction techniques for Sentiment Analysis [Arxiv](https://arxiv.org/abs/1906.01573)
 * Scaling Up All Pairs Similarity Search [Google Research](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/32781.pdf)
+* Forward and Backward Knowledge Transfer for Sentiment Classification [Arxiv](https://arxiv.org/abs/1906.03506)
+* Is Attention Interpretable? [Arxiv](https://arxiv.org/abs/1906.03731)
+* Deep Spatio-Temporal Neural Networks for Click-Through Rate Prediction [Arxiv](https://arxiv.org/abs/1906.03776)
+* A Survey on Neural Machine Reading Comprehension [Arxiv](https://arxiv.org/abs/1906.03824)
+* A Survey on Neural Network Language Models [Arxiv](https://arxiv.org/abs/1906.03591)
+* Domain Adaptive Dialog Generation via Meta Learning [Arxiv](https://arxiv.org/abs/1906.03520)
+* An Imitation Learning Approach to Unsupervised Parsing [Arxiv](https://arxiv.org/abs/1906.02276)
+* Triple-to-Text: Converting RDF Triples into High-Quality Natural Languages via Optimizing an Inverse KL Divergence [Arxiv](https://arxiv.org/abs/1906.01965)
+* Understanding the Origins of Bias in Word Embeddings [Arxiv](https://arxiv.org/abs/1810.03611)
+* An Empirical Study on Crosslingual Transfer in Probabilistic Topic Models [Arxiv](https://arxiv.org/abs/1810.05867)
 *  [Arxiv]()
 *  [Arxiv]()
 *  [Arxiv]()
@@ -121,7 +131,11 @@
 *  [Arxiv]()
 *  [Arxiv]()
 *  [Arxiv]()
-
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
 
 ## Machine Learning
 * Elements of Sequential Monte Carlo [Arxiv](https://arxiv.org/pdf/1903.04797)
@@ -156,6 +170,9 @@
 * Automatic differentiation in machine learning: a survey [Arxiv](https://arxiv.org/abs/1502.05767)
 * A Topology Layer for Machine Learning [Arxiv](https://arxiv.org/abs/1905.12200)
 * Generative Adversarial Networks: A Survey and Taxonomy [Arxiv](https://arxiv.org/abs/1906.01529)
+* Note on the bias and variance of variational inference [Arxiv](https://arxiv.org/abs/1906.03708)
+* Time-Series Anomaly Detection Service at Microsoft [Arxiv](https://arxiv.org/abs/1906.03821)
+* CRCEN: A Generalized Cost-sensitive Neural Network Approach for Imbalanced Classification [Arxiv](https://arxiv.org/abs/1906.04026)
 
 ## Robotics
 * Flying through a narrow gap using neural network: an end-to-end planning and control approach [Arxiv](https://arxiv.org/abs/1903.09088)
@@ -197,6 +214,8 @@
 * The Omniglot challenge: a 3-year progress report [Arxiv](https://arxiv.org/abs/1902.03477)
 * Hand Pose Estimation: A Survey [Arxiv](https://arxiv.org/abs/1903.01013)
 * Focal Visual-Text Attention for Visual Question Answering [Arxiv](https://arxiv.org/abs/1806.01873)
+* A Study on Action Detection in the Wild [Arxiv](https://arxiv.org/abs/1904.12993)
+* EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks [Arxiv](https://arxiv.org/abs/1905.11946)
 
 ## Deep Learning(Reinforcement Learning and others)
 * Variational Auto-Decoder: Neural Generative Modeling from Partial Data [Arxiv](https://arxiv.org/abs/1903.00840)
@@ -217,6 +236,13 @@
 * An Empirical Study on Hyperparameters and their Interdependence for RL Generalization [Arxiv](https://arxiv.org/abs/1906.00431)
 * Learning to Self-Train for Semi-Supervised Few-Shot Classification [Arxiv](https://arxiv.org/abs/1906.00562)
 * Online Meta-Learning [Arxiv](https://arxiv.org/abs/1902.08438)
+* Boosting Soft Actor-Critic: Emphasizing Recent Experience without Forgetting the Past [Arxiv](https://arxiv.org/abs/1906.04009)
+* A Survey of Reinforcement Learning Informed by Natural Language [Arxiv](https://arxiv.org/abs/1906.03926)
+* BayesNAS: A Bayesian Approach for Neural Architecture Search [Arxiv](https://arxiv.org/abs/1905.04919)
+* Towards Safe Reinforcement Learning Using NMPC and Policy Gradients: Part I - Stochastic case [Arxiv](https://arxiv.org/abs/1906.04057)
+* Towards Safe Reinforcement Learning Using NMPC and Policy Gradients: Part II - Deterministic Case [Arxiv](https://arxiv.org/abs/1906.04034)
+* Model-Free Reinforcement Learning for Financial Portfolios: A Brief Survey [Arxiv](https://arxiv.org/abs/1904.04973)
+* Secrets of the Brain: An Introduction to the Brain Anatomical Structure and Biological Function [Arxiv](https://arxiv.org/abs/1906.03314)
 
 ## Mathematics
 * An invitation to Gabor analysis [Arxiv](https://arxiv.org/pdf/1812.08647)
@@ -253,3 +279,9 @@
 * Foundations of quantum physics I. A critique of the tradition [Arxiv](https://arxiv.org/abs/1902.10778)
 * Optimal transport and information geometry [Arxiv](https://arxiv.org/abs/1906.00030)
 * Mean Field Analysis of Neural Networks: A Central Limit Theorem [Arxiv](https://arxiv.org/abs/1808.09372)
+* Noisy Interactive Quantum Communication [Arxiv](https://arxiv.org/abs/1309.2643)
+* Fuzzy-Stochastic Partial Differential Equations [Arxiv](https://arxiv.org/abs/1706.00538)
+* Analytic Solutions of the Heat Equation [Arxiv](https://arxiv.org/abs/1906.02233)
+* Lie algebras of differential operators: Extensions [Arxiv](https://arxiv.org/abs/1512.02967)
+* Lie algebras of differential operators: The universal ring [Arxiv](https://arxiv.org/abs/1903.04285)
+* Lie algebras of differential operators III: Classification [Arxiv](https://arxiv.org/abs/1905.09630)
