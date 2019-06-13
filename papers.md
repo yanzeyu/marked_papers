@@ -285,3 +285,4 @@
 * Lie algebras of differential operators: Extensions [Arxiv](https://arxiv.org/abs/1512.02967)
 * Lie algebras of differential operators: The universal ring [Arxiv](https://arxiv.org/abs/1903.04285)
 * Lie algebras of differential operators III: Classification [Arxiv](https://arxiv.org/abs/1905.09630)
+* Convex Optimization: Algorithms and Complexity [Arxiv](https://arxiv.org/abs/1405.4980)
