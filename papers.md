@@ -133,9 +133,6 @@
 *  [Arxiv]()
 *  [Arxiv]()
 *  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
 
 ## Machine Learning
 * Elements of Sequential Monte Carlo [Arxiv](https://arxiv.org/pdf/1903.04797)
@@ -173,6 +170,8 @@
 * Note on the bias and variance of variational inference [Arxiv](https://arxiv.org/abs/1906.03708)
 * Time-Series Anomaly Detection Service at Microsoft [Arxiv](https://arxiv.org/abs/1906.03821)
 * CRCEN: A Generalized Cost-sensitive Neural Network Approach for Imbalanced Classification [Arxiv](https://arxiv.org/abs/1906.04026)
+* A Survey on Incremental Learning [webofproceedings.org](https://www.webofproceedings.org/proceedings_series/ECS/CAPE%202017/CAPE_1113034.pdf)
+* Continual Lifelong Learning with Neural Networks: A Review [Arxiv](https://arxiv.org/abs/1802.07569)
 
 ## Robotics
 * Flying through a narrow gap using neural network: an end-to-end planning and control approach [Arxiv](https://arxiv.org/abs/1903.09088)
@@ -216,6 +215,7 @@
 * Focal Visual-Text Attention for Visual Question Answering [Arxiv](https://arxiv.org/abs/1806.01873)
 * A Study on Action Detection in the Wild [Arxiv](https://arxiv.org/abs/1904.12993)
 * EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks [Arxiv](https://arxiv.org/abs/1905.11946)
+* End-to-End Incremental Learning [Arxiv](https://arxiv.org/abs/1807.09536)
 
 ## Deep Learning(Reinforcement Learning and others)
 * Variational Auto-Decoder: Neural Generative Modeling from Partial Data [Arxiv](https://arxiv.org/abs/1903.00840)
