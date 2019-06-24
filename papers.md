@@ -137,7 +137,7 @@
 * Lightweight and Efficient Neural Natural Language Processing with Quaternion Networks [Arxiv](https://arxiv.org/abs/1906.04393)
 * Scalable Syntax-Aware Language Models Using Knowledge Distillation [Arxiv](https://arxiv.org/abs/1906.06438)
 * AttentionXML: Extreme Multi-Label Text Classification with Multi-Label Attention Based Recurrent Neural Networks [Arxiv](https://arxiv.org/abs/1811.01727)
-*  [Arxiv]()
+* XLNet: Generalized Autoregressive Pretraining for Language Understanding [Arxiv](https://arxiv.org/abs/1906.08237)
 *  [Arxiv]()
 *  [Arxiv]()
 *  [Arxiv]()
