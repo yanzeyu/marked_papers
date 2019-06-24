@@ -138,7 +138,7 @@
 * Scalable Syntax-Aware Language Models Using Knowledge Distillation [Arxiv](https://arxiv.org/abs/1906.06438)
 * AttentionXML: Extreme Multi-Label Text Classification with Multi-Label Attention Based Recurrent Neural Networks [Arxiv](https://arxiv.org/abs/1811.01727)
 * XLNet: Generalized Autoregressive Pretraining for Language Understanding [Arxiv](https://arxiv.org/abs/1906.08237)
-*  [Arxiv]()
+* Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding [Arxiv](https://arxiv.org/abs/1510.00149)
 *  [Arxiv]()
 *  [Arxiv]()
 *  [Arxiv]()
