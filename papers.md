@@ -146,7 +146,7 @@
 * A Framework for Automatic Question Generation from Text using Deep Reinforcement Learning [Arxiv](https://arxiv.org/abs/1808.04961)
 * False News On Social Media: A Data-Driven Survey [Arxiv](https://arxiv.org/abs/1902.07539)
 * xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems [Arxiv](https://arxiv.org/abs/1803.05170)
-*  [Arxiv]()
+* Sentence Simplification with Deep Reinforcement Learning [Arxiv](https://arxiv.org/abs/1703.10931)
 *  [Arxiv]()
 *  [Arxiv]()
 *  [Arxiv]()
