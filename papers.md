@@ -153,13 +153,6 @@
 *  [Arxiv]()
 *  [Arxiv]()
 *  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
 
 ## Machine Learning
 * Elements of Sequential Monte Carlo [Arxiv](https://arxiv.org/pdf/1903.04797)
@@ -208,7 +201,7 @@
 * Learning to Search via Retrospective Imitation [Arxiv](https://arxiv.org/abs/1804.00846)
 * Fisher and Kernel Fisher Discriminant Analysis: Tutorial [Arxiv](https://arxiv.org/abs/1906.09436)
 * Implicitly Learning to Reason in First-Order Logic [Arxiv](https://arxiv.org/abs/1906.10106)
-* Modern Deep Reinforcement Learning Algorithms [Arxiv](https://arxiv.org/abs/1906.10025)
+* A Sufficient Condition for Convergences of Adam and RMSProp [Arxiv](https://arxiv.org/abs/1811.09358)
 
 ## Robotics
 * Flying through a narrow gap using neural network: an end-to-end planning and control approach [Arxiv](https://arxiv.org/abs/1903.09088)
@@ -217,6 +210,7 @@
 * Multi-Agent Image Classification via Reinforcement Learning [Arxiv](https://arxiv.org/abs/1905.04835)
 * Stanford Doggo: An Open-Source, Quasi-Direct-Drive Quadruped [Arxiv](https://arxiv.org/abs/1905.04254)
 * A survey on policy search algorithms for learning robot controllers in a handful of trials [Arxiv](https://arxiv.org/abs/1807.02303)
+* The Role of Compute in Autonomous Aerial Vehicles [Arxiv](https://arxiv.org/abs/1906.10513)
 
 ## Computer Vision
 * Deep Learning for Object Detection: A Comprehensive Review [towardsdatascience.com](https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9)
@@ -258,6 +252,8 @@
 * A Survey of Autonomous Driving: Common Practices and Emerging Technologies [Arxiv](https://arxiv.org/abs/1906.05113)
 * Image Captioning based on Deep Learning Methods: A Survey [Arxiv](https://arxiv.org/abs/1905.08110)
 * GAN-Knowledge Distillation for one-stage Object Detection [Arxiv](https://arxiv.org/abs/1906.08467)
+* A Review on Deep Learning in Medical Image Reconstruction [Arxiv](https://arxiv.org/abs/1906.10643)
+* Supervized Segmentation with Graph-Structured Deep Metric Learning [Arxiv](https://arxiv.org/abs/1905.04014)
 
 ## Deep Learning(Reinforcement Learning and others)
 * Variational Auto-Decoder: Neural Generative Modeling from Partial Data [Arxiv](https://arxiv.org/abs/1903.00840)
@@ -290,6 +286,10 @@
 * Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding [Arxiv](https://arxiv.org/abs/1510.00149)
 * Deep Learning for Spatio-Temporal Data Mining: A Survey [Arxiv](https://arxiv.org/abs/1906.04928)
 * Rethinking the Value of Network Pruning [Arxiv](https://arxiv.org/abs/1810.05270)
+* Modern Deep Reinforcement Learning Algorithms [Arxiv](https://arxiv.org/abs/1906.10025)
+* Monte Carlo Gradient Estimation in Machine Learning [Arxiv](https://arxiv.org/abs/1906.10652)
+* A Theoretical Connection Between Statistical Physics and Reinforcement Learning [Arxiv](https://arxiv.org/abs/1906.10228)
+* Introduction to Multi-Armed Bandits [Arxiv](https://arxiv.org/abs/1904.07272)
 
 ## Mathematics
 * An invitation to Gabor analysis [Arxiv](https://arxiv.org/pdf/1812.08647)
@@ -341,4 +341,7 @@
 * Foundation of Quantum Optimal Transport and Applications [Arxiv](https://arxiv.org/abs/1906.09817)
 * Classical Langevin dynamics derived from quantum mechanics [Arxiv](https://arxiv.org/abs/1906.09858)
 * Algebraic Statistics in Practice: Applications to Networks [Arxiv](https://arxiv.org/abs/1906.09537)
+* A Review of Tree-based Approaches to solve Forward-Backward Stochastic Differential Equations [Arxiv](https://arxiv.org/abs/1809.00325)
+* Quantum computing with Octonions [Arxiv](https://arxiv.org/abs/1811.08580)
+* Probabilistic mappings and Bayesian nonparametrics [Arxiv](https://arxiv.org/abs/1905.11448)
 *  [Arxiv]()
