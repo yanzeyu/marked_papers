@@ -156,7 +156,7 @@
 * GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding [Arxiv](https://arxiv.org/abs/1804.07461)
 * On-Device Neural Language Model based Word Prediction [ACL Web](https://aclweb.org/anthology/C18-2028)
 * Convolutional Sequence to Sequence Learning [Arxiv](https://arxiv.org/abs/1705.03122)
-*  [Arxiv]()
+* Anaphora and Coreference Resolution: A Review [Arxiv](https://arxiv.org/abs/1805.11824)
 *  [Arxiv]()
 *  [Arxiv]()
 *  [Arxiv]()
