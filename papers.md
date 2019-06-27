@@ -155,7 +155,7 @@
 * Abstractive Document Summarization with a Graph-Based Attentional Neural Model [ACL Web](https://aclweb.org/anthology/papers/P/P17/P17-1108/)
 * GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding [Arxiv](https://arxiv.org/abs/1804.07461)
 * On-Device Neural Language Model based Word Prediction [ACL Web](https://aclweb.org/anthology/C18-2028)
-*  [Arxiv]()
+* Convolutional Sequence to Sequence Learning [Arxiv](https://arxiv.org/abs/1705.03122)
 *  [Arxiv]()
 *  [Arxiv]()
 *  [Arxiv]()
