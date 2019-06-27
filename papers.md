@@ -152,7 +152,7 @@
 * Self-Attention with Relative Position Representations [Arxiv](https://arxiv.org/abs/1803.02155)
 * Why Self-Attention? A Targeted Evaluation of Neural Machine Translation Architectures [Arxiv](https://arxiv.org/abs/1808.08946)
 * Bilateral Multi-Perspective Matching for Natural Language Sentences [Arxiv](https://arxiv.org/abs/1702.03814)
-*  [Arxiv]()
+* Abstractive Document Summarization with a Graph-Based Attentional Neural Model [ACL Web](https://aclweb.org/anthology/papers/P/P17/P17-1108/)
 *  [Arxiv]()
 *  [Arxiv]()
 *  [Arxiv]()
