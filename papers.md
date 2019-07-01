@@ -157,6 +157,11 @@
 * On-Device Neural Language Model based Word Prediction [ACL Web](https://aclweb.org/anthology/C18-2028)
 * Convolutional Sequence to Sequence Learning [Arxiv](https://arxiv.org/abs/1705.03122)
 * Anaphora and Coreference Resolution: A Review [Arxiv](https://arxiv.org/abs/1805.11824)
+* Language Modelling Makes Sense: Propagating Representations through WordNet for Full-Coverage Word Sense Disambiguation [Arxiv](https://arxiv.org/abs/1906.10007)
+* Multimodal and Multi-view Models for Emotion Recognition [Arxiv](https://arxiv.org/abs/1906.10198)
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
 *  [Arxiv]()
 *  [Arxiv]()
 *  [Arxiv]()
@@ -214,6 +219,7 @@
 * Fisher and Kernel Fisher Discriminant Analysis: Tutorial [Arxiv](https://arxiv.org/abs/1906.09436)
 * Implicitly Learning to Reason in First-Order Logic [Arxiv](https://arxiv.org/abs/1906.10106)
 * A Sufficient Condition for Convergences of Adam and RMSProp [Arxiv](https://arxiv.org/abs/1811.09358)
+* Statistical Learning from Biased Training Samples [Arxiv](https://arxiv.org/abs/1906.12304)
 
 ## Robotics
 * Flying through a narrow gap using neural network: an end-to-end planning and control approach [Arxiv](https://arxiv.org/abs/1903.09088)
@@ -223,6 +229,7 @@
 * Stanford Doggo: An Open-Source, Quasi-Direct-Drive Quadruped [Arxiv](https://arxiv.org/abs/1905.04254)
 * A survey on policy search algorithms for learning robot controllers in a handful of trials [Arxiv](https://arxiv.org/abs/1807.02303)
 * The Role of Compute in Autonomous Aerial Vehicles [Arxiv](https://arxiv.org/abs/1906.10513)
+* Robotic Supervised Autonomy: A Review [Arxiv](https://arxiv.org/abs/1906.11858)
 
 ## Computer Vision
 * Deep Learning for Object Detection: A Comprehensive Review [towardsdatascience.com](https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9)
@@ -266,6 +273,7 @@
 * GAN-Knowledge Distillation for one-stage Object Detection [Arxiv](https://arxiv.org/abs/1906.08467)
 * A Review on Deep Learning in Medical Image Reconstruction [Arxiv](https://arxiv.org/abs/1906.10643)
 * Supervized Segmentation with Graph-Structured Deep Metric Learning [Arxiv](https://arxiv.org/abs/1905.04014)
+* DVDnet: A Fast Network for Deep Video Denoising [Arxiv](https://arxiv.org/abs/1906.11890)
 
 ## Deep Learning(Reinforcement Learning and others)
 * Variational Auto-Decoder: Neural Generative Modeling from Partial Data [Arxiv](https://arxiv.org/abs/1903.00840)
@@ -360,4 +368,4 @@
 * A Review of Tree-based Approaches to solve Forward-Backward Stochastic Differential Equations [Arxiv](https://arxiv.org/abs/1809.00325)
 * Quantum computing with Octonions [Arxiv](https://arxiv.org/abs/1811.08580)
 * Probabilistic mappings and Bayesian nonparametrics [Arxiv](https://arxiv.org/abs/1905.11448)
-*  [Arxiv]()
+* An Elementary Introduction to Kalman Filtering [Arxiv](https://arxiv.org/abs/1710.04055)
