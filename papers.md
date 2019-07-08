@@ -190,8 +190,6 @@
 *  [Arxiv]()
 *  [Arxiv]()
 *  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
 
 ## Machine Learning
 * Elements of Sequential Monte Carlo [Arxiv](https://arxiv.org/pdf/1903.04797)
@@ -401,3 +399,6 @@
 * Notes on Lie symmetry group methods for differential equations [Arxiv](https://arxiv.org/abs/1901.01543)
 * Hilbert's 16th problem on a period annulus and Nash space of arcs [Arxiv](https://arxiv.org/abs/1610.07582)
 * Lectures on Factorization Homology, Infinity-Categories, and Topological Field Theories [Arxiv](https://arxiv.org/abs/1907.00066)
+* An Introduction to Higher Categorical Algebra [Arxiv](https://arxiv.org/abs/1907.02904)
+* Random matrices over finite fields: methods and results [Arxiv](https://arxiv.org/abs/1907.02575)
+
