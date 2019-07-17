@@ -182,7 +182,7 @@
 * What graph neural networks cannot learn: depth vs width [Arxiv](https://arxiv.org/abs/1907.03199)
 * Federated Reinforcement Distillation with Proxy Experience Memory [Arxiv](https://arxiv.org/abs/1907.06536)
 * Learning to Rank Broad and Narrow Queries in E-Commerce [Arxiv](https://arxiv.org/abs/1907.01549)
-*  [Arxiv]()
+* Independently Recurrent Neural Network (IndRNN): Building A Longer and Deeper RNN [Arxiv](https://arxiv.org/abs/1803.04831)
 *  [Arxiv]()
 *  [Arxiv]()
 *  [Arxiv]()
