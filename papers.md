@@ -191,13 +191,6 @@
 *  [Arxiv]()
 *  [Arxiv]()
 *  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
 
 ## Machine Learning
 * Elements of Sequential Monte Carlo [Arxiv](https://arxiv.org/pdf/1903.04797)
@@ -258,6 +251,8 @@
 * Minimal Sample Subspace Learning: Theory and Algorithms [Arxiv](https://arxiv.org/abs/1907.06032)
 * An analysis of training and generalization errors in shallow and deep networks [Arxiv](https://arxiv.org/abs/1802.06266)
 * Practical Bayesian Optimization of Machine Learning Algorithms [nips](https://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf)
+* Meta-Learning for Black-box Optimization [Arxiv](https://arxiv.org/abs/1907.06901)
+* Learning One-hidden-layer neural networks via Provable Gradient Descent with Random Initialization [Arxiv](https://arxiv.org/abs/1907.06594)
 
 ## Robotics
 * Flying through a narrow gap using neural network: an end-to-end planning and control approach [Arxiv](https://arxiv.org/abs/1903.09088)
@@ -270,6 +265,7 @@
 * Robotic Supervised Autonomy: A Review [Arxiv](https://arxiv.org/abs/1906.11858)
 * On Training Flexible Robots using Deep Reinforcement Learning [Arxiv](https://arxiv.org/abs/1907.00269)
 * Continual Learning for Robotics [Arxiv](https://arxiv.org/abs/1907.00182)
+* Mutual Reinforcement Learning [Arxiv](https://arxiv.org/abs/1907.06725)
 
 ## Computer Vision
 * Deep Learning for Object Detection: A Comprehensive Review [towardsdatascience.com](https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9)
@@ -314,6 +310,9 @@
 * A Review on Deep Learning in Medical Image Reconstruction [Arxiv](https://arxiv.org/abs/1906.10643)
 * Supervized Segmentation with Graph-Structured Deep Metric Learning [Arxiv](https://arxiv.org/abs/1905.04014)
 * DVDnet: A Fast Network for Deep Video Denoising [Arxiv](https://arxiv.org/abs/1906.11890)
+* Introduction to Camera Pose Estimation with Deep Learning [Arxiv](https://arxiv.org/abs/1907.05272)
+* 2nd Place Solution to the GQA Challenge 2019 [Arxiv](https://arxiv.org/abs/1907.06794)
+* Meta-Learning for Black-box Optimization [Arxiv](https://arxiv.org/abs/1907.06901)
 
 ## Deep Learning(Reinforcement Learning and others)
 * Variational Auto-Decoder: Neural Generative Modeling from Partial Data [Arxiv](https://arxiv.org/abs/1903.00840)
@@ -354,6 +353,7 @@
 * Distilling the Knowledge in a Neural Network [Arxiv](https://arxiv.org/abs/1503.02531)
 * Learning to Prune Deep Neural Networks via Layer-wise Optimal Brain Surgeon [Arxiv](https://arxiv.org/abs/1705.07565)
 * A Survey of Model Compression and Acceleration for Deep Neural Networks [Arxiv](https://arxiv.org/abs/1710.09282)
+* P3O: Policy-on Policy-off Policy Optimization [Arxiv](https://arxiv.org/abs/1905.01756)
 
 ## Mathematics
 * An invitation to Gabor analysis [Arxiv](https://arxiv.org/pdf/1812.08647)
@@ -430,7 +430,7 @@ Per Kristen Jakobsen [Arxiv](https://arxiv.org/abs/1904.07702)
 * The Historical Development of Algebraic Geometry: a lecture by Jean Dieudonné [Arxiv](https://arxiv.org/abs/1803.00163)
 * An introduction to random matrix theory [Arxiv](https://arxiv.org/abs/1710.10792)
 * Finite Element Methods [Arxiv](https://arxiv.org/abs/1709.08618)
-*  [Arxiv]()
+* Mathematical analysis of electromagnetic plasmonic metasurfaces [Arxiv](https://arxiv.org/abs/1907.06873)
 *  [Arxiv]()
 *  [Arxiv]()
 *  [Arxiv]()
