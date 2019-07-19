@@ -253,6 +253,10 @@
 * Practical Bayesian Optimization of Machine Learning Algorithms [nips](https://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf)
 * Meta-Learning for Black-box Optimization [Arxiv](https://arxiv.org/abs/1907.06901)
 * Learning One-hidden-layer neural networks via Provable Gradient Descent with Random Initialization [Arxiv](https://arxiv.org/abs/1907.06594)
+* The Relationship of DBSCAN to Matrix Factorization and Spectral Clustering [ceur-ws](http://ceur-ws.org/Vol-2191/paper38.pdf)
+* On Spectral Clustering Analysis and an algorithm [ai stanford](https://ai.stanford.edu/~ang/papers/nips01-spectral.pdf)
+* A Tutorial on Spectral Clustering [csail](http://people.csail.mit.edu/dsontag/courses/ml14/notes/Luxburg07_tutorial_spectral_clustering.pdf)
+*  [Arxiv]()
 
 ## Robotics
 * Flying through a narrow gap using neural network: an end-to-end planning and control approach [Arxiv](https://arxiv.org/abs/1903.09088)
