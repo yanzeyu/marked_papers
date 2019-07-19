@@ -192,6 +192,18 @@
 *  [Arxiv]()
 *  [Arxiv]()
 
+## Recommender System
+* SimRank: A Measure of Structural-Context Similarity∗ [ilpubs stanford](http://ilpubs.stanford.edu:8090/508/1/2001-41.pdf)
+* DeepFM: A Factorization-Machine based Neural Network for CTR Prediction [Arxiv](https://arxiv.org/abs/1703.04247)
+* xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems [Arxiv](https://arxiv.org/abs/1803.05170)
+* Deep Interest Network for Click-Through Rate Prediction [Arxiv](https://arxiv.org/abs/1706.06978)
+* Wide & Deep Learning for Recommender Systems [Arxiv](https://arxiv.org/abs/1606.07792)
+* Collaborative Filtering Recommender Systems [grouplens](http://files.grouplens.org/papers/FnT%20CF%20Recsys%20Survey.pdf)
+* Factorization Machines [csie ntu](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
+
 ## Machine Learning
 * Elements of Sequential Monte Carlo [Arxiv](https://arxiv.org/pdf/1903.04797)
 * A Survey of Learning in Multiagent Environments: Dealing with Non-Stationarity [Arxiv](https://arxiv.org/abs/1707.09183)
