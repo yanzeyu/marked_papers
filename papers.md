@@ -204,7 +204,7 @@
 * EMMA: An Emotion-Aware Wellbeing Chatbot [Arxiv](https://arxiv.org/abs/1812.11423)
 * Toward Fast and Accurate Neural Chinese Word Segmentation with Multi-Criteria Learning [Arxiv](https://arxiv.org/abs/1903.04190)
 * Chinese NER Using Lattice LSTM [Arxiv](https://arxiv.org/abs/1805.02023)
-*  [Arxiv]()
+* Anchored Correlation Explanation: Topic Modeling with Minimal Domain Knowledge [Arxiv](https://arxiv.org/abs/1611.10277)
 *  [Arxiv]()
 *  [Arxiv]()
 *  [Arxiv]()
