@@ -432,7 +432,7 @@
 * Similarity-Preserving Knowledge Distillation [Arxiv](https://arxiv.org/abs/1907.09682)
 * Graph Reasoning Networks for Visual Question Answering [Arxiv](https://arxiv.org/abs/1907.09815)
 * S4L: Self-Supervised Semi-Supervised Learning [Arxiv](https://arxiv.org/abs/1905.03670)
-*  [Arxiv]()
+* Deep Learning for Fine-Grained Image Analysis: A Survey [Arxiv](https://arxiv.org/abs/1907.03069)
 *  [Arxiv]()
 *  [Arxiv]()
 *  [Arxiv]()
