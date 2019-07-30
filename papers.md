@@ -216,7 +216,7 @@
 * Directional Skip-Gram: Explicitly Distinguishing Left and Right Context for Word Embeddings [ACL Web](https://aclweb.org/anthology/N18-2028)
 * Semantic Web for Machine Translation: Challenges and Directions [Arxiv](https://arxiv.org/abs/1907.10676)
 * A Survey of Reinforcement Learning Informed by Natural Language [Arxiv](https://arxiv.org/abs/1906.03926)
-*  [Arxiv]()
+* SWAG: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference [Arxiv](https://arxiv.org/abs/1808.05326)
 *  [Arxiv]()
 *  [Arxiv]()
 *  [Arxiv]()
