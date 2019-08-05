@@ -227,7 +227,7 @@
 * Multiway Attention Networks for Modeling Sentence Pairs [IJCAI](https://www.ijcai.org/proceedings/2018/0613.pdf)
 * Deep Retrieval-Based Dialogue Systems: A Short Review [Arxiv](https://arxiv.org/abs/1907.12878)
 * Cross-lingual Knowledge Graph Alignment via Graph Matching Neural Network [Arxiv](https://arxiv.org/abs/1905.11605)
-*  [Arxiv]()
+* Curate and Generate: A Corpus and Method for Joint Control of Semantics and Style in Neural NLG [Arxiv](https://arxiv.org/abs/1906.01334)
 *  [Arxiv]()
 *  [Arxiv]()
 *  [Arxiv]()
