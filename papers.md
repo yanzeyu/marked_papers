@@ -381,9 +381,16 @@
 * Graph Neural Networks for Small Graph and Giant Network Representation Learning: An Overview [Arxiv](https://arxiv.org/abs/1908.00187)
 * Continual Learning via Online Leverage Score Sampling [Arxiv](https://arxiv.org/abs/1908.00355)
 * How Good is SGD with Random Shuffling? [Arxiv](https://arxiv.org/abs/1908.00045)
+* A self-organizing fuzzy neural network for sequence learning [Arxiv](https://arxiv.org/abs/1908.00617)
+* AutoML: A Survey of the State-of-the-Art [Arxiv](https://arxiv.org/abs/1908.00709)
 *  [Arxiv]()
 *  [Arxiv]()
-
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
 
 ## Robotics
 * Flying through a narrow gap using neural network: an end-to-end planning and control approach [Arxiv](https://arxiv.org/abs/1903.09088)
