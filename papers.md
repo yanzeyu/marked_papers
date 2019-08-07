@@ -504,7 +504,7 @@
 * Revisiting Feature Alignment for One-stage Object Detection [Arxiv](https://arxiv.org/abs/1908.01570)
 * Attentive Normalization [Arxiv](https://arxiv.org/abs/1908.01259)
 * Incremental Learning Techniques for Semantic Segmentation [Arxiv](https://arxiv.org/abs/1907.13372)
-*  [Arxiv]()
+* End-to-End Incremental Learning [Arxiv](https://arxiv.org/abs/1807.09536)
 *  [Arxiv]()
 *  [Arxiv]()
 *  [Arxiv]()
