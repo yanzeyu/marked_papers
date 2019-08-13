@@ -239,7 +239,7 @@
 * Training Tips for the Transformer Model [Arxiv](https://arxiv.org/abs/1804.00247)
 * TEQUILA: Temporal Question Answering over Knowledge Bases [Arxiv](https://arxiv.org/abs/1908.03650)
 * Understanding Convolutional Neural Networks for Text Classification [Arxiv](https://arxiv.org/abs/1809.08037)
-*  [Arxiv]()
+* Simple Recurrent Units for Highly Parallelizable Recurrence [Arxiv](https://arxiv.org/abs/1709.02755)
 *  [Arxiv]()
 *  [Arxiv]()
 *  [Arxiv]()
