@@ -241,7 +241,7 @@
 * Understanding Convolutional Neural Networks for Text Classification [Arxiv](https://arxiv.org/abs/1809.08037)
 * Simple Recurrent Units for Highly Parallelizable Recurrence [Arxiv](https://arxiv.org/abs/1709.02755)
 * StructBERT: Incorporating Language Structures into Pre-training for Deep Language Understanding [Arxiv](https://arxiv.org/abs/1908.04577)
-*  [Arxiv]()
+* Merge and Label: A novel neural network architecture for nested NER [Arxiv](https://arxiv.org/abs/1907.00464)
 *  [Arxiv]()
 *  [Arxiv]()
 *  [Arxiv]()
