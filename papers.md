@@ -140,7 +140,6 @@
 * XLNet: Generalized Autoregressive Pretraining for Language Understanding [Arxiv](https://arxiv.org/abs/1906.08237)
 * Neural Machine Translating from Natural Language to SPARQL [Arxiv](https://arxiv.org/abs/1906.09302)
 * A Survey of Reinforcement Learning Informed by Natural Language [Arxiv](https://arxiv.org/abs/1906.03926)
-* A Survey of Natural Language Generation Techniques with a Focus on Dialogue Systems - Past, Present and Future Directions [Arxiv](https://arxiv.org/abs/1906.00500)
 * Emotionally-Aware Chatbots: A Survey [Arxiv](https://arxiv.org/abs/1906.09774)
 * A Survey on Neural Machine Reading Comprehension [Arxiv](https://arxiv.org/abs/1906.03824)
 * A Framework for Automatic Question Generation from Text using Deep Reinforcement Learning [Arxiv](https://arxiv.org/abs/1808.04961)
