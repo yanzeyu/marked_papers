@@ -484,6 +484,14 @@
 * Transformer Dissection: An Unified Understanding for Transformer's Attention via the Lens of Kernel [Arxiv](https://arxiv.org/abs/1908.11775)
 * Learning to Transfer Learn [Arxiv](https://arxiv.org/abs/1908.11406)
 * Semi-Supervised Learning with Deep Generative Models [Arxiv](https://arxiv.org/abs/1406.5298)
+* The Manifold Tangent Classifier [nips.cc](https://papers.nips.cc/paper/4409-the-manifold-tangent-classifier.pdf)
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
 *  [Arxiv]()
 *  [Arxiv]()
 
@@ -674,7 +682,7 @@
 * OpenSpiel: A Framework for Reinforcement Learning in Games [Arxiv](https://arxiv.org/abs/1908.09453)
 * Deep Learning Theory Review: An Optimal Control and Dynamical Systems Perspective [Arxiv](https://arxiv.org/abs/1908.10920)
 * Deep Learning: Computational Aspects [Arxiv](https://arxiv.org/abs/1808.08618)
-*  [Arxiv]()
+* Deep Graph Infomax [Arxiv](https://arxiv.org/abs/1809.10341)
 *  [Arxiv]()
 *  [Arxiv]()
 
