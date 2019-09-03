@@ -483,7 +483,7 @@
 * Smaller Models, Better Generalization [Arxiv](https://arxiv.org/abs/1908.11250)
 * Transformer Dissection: An Unified Understanding for Transformer's Attention via the Lens of Kernel [Arxiv](https://arxiv.org/abs/1908.11775)
 * Learning to Transfer Learn [Arxiv](https://arxiv.org/abs/1908.11406)
-*  [Arxiv]()
+* Semi-Supervised Learning with Deep Generative Models [Arxiv](https://arxiv.org/abs/1406.5298)
 *  [Arxiv]()
 *  [Arxiv]()
 
