@@ -287,7 +287,7 @@
 * Zero-shot Text-to-SQL Learning with Auxiliary Task [Arxiv](https://arxiv.org/abs/1908.11052)
 * Ellipsis and Coreference Resolution as Question Answering [Arxiv](https://arxiv.org/abs/1908.11141)
 * Cloze-driven Pretraining of Self-attention Networks [Arxiv](https://arxiv.org/abs/1903.07785)
-*  [Arxiv]()
+* Sequence-to-Sequence Learning as Beam-Search Optimization [Arxiv](https://arxiv.org/abs/1606.02960)
 *  [Arxiv]()
 *  [Arxiv]()
 *  [Arxiv]()
