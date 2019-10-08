@@ -867,6 +867,15 @@
 * Towards Explainable Artificial Intelligence [Arxiv](https://arxiv.org/abs/1909.12072)
 * Controlling an Autonomous Vehicle with Deep Reinforcement Learning [Arxiv](https://arxiv.org/abs/1909.12153)
 * Benchmarking Batch Deep Reinforcement Learning Algorithms [Arxiv](https://arxiv.org/abs/1910.01708)
+* SGDR: Stochastic Gradient Descent with Warm Restarts [Arxiv](https://arxiv.org/abs/1608.03983)
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
 *  [Arxiv]()
 
 ## Mathematics
