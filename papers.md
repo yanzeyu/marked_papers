@@ -392,9 +392,9 @@
 * Universal Text Representation from BERT: An Empirical Study [Arxiv](https://arxiv.org/abs/1910.07973)
 * Evolution of transfer learning in natural language processing [Arxiv](https://arxiv.org/abs/1910.07370)
 * NumNet: Machine Reading Comprehension with Numerical Reasoning [Arxiv](https://arxiv.org/abs/1910.06701)
-*  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
+* Cross-Lingual Natural Language Generation via Pre-Training [Arxiv](https://arxiv.org/abs/1909.10481)
+* DuTongChuan: Context-aware Translation Model for Simultaneous Interpreting [Arxiv](https://arxiv.org/abs/1907.12984)
+* Towards Complex Text-to-SQL in Cross-Domain Database with Intermediate Representation [Arxiv](https://arxiv.org/abs/1905.08205)
 *  [Arxiv]()
 
 ## Recommender System
