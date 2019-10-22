@@ -400,11 +400,11 @@
 * Planning for Goal-Oriented Dialogue Systems [Arxiv](https://arxiv.org/abs/1910.08137)
 * Meta Multi-Task Learning for Sequence Modeling [Arxiv](https://arxiv.org/abs/1802.08969)
 * A Neural Entity Coreference Resolution Review [Arxiv](https://arxiv.org/abs/1910.09329)
-*  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
+* A Comprehensive Exploration on WikiSQL with Table-Aware Word Contextualization [Arxiv](https://arxiv.org/abs/1902.01069)
+* Introduction to Neural Network based Approaches for Question Answering over Knowledge Graphs [Arxiv](https://arxiv.org/abs/1907.09361)
+* One-Shot Learning for Text-to-SQL Generation [Arxiv](https://arxiv.org/abs/1905.11499)
+* A Pilot Study for Chinese SQL Semantic Parsing [Arxiv](https://arxiv.org/abs/1909.13293)
+* Generating Logical Forms from Graph Representations of Text and Entities [Arxiv](https://arxiv.org/abs/1905.08407)
 
 ## Recommender System
 * SimRank: A Measure of Structural-Context Similarity∗ [ilpubs stanford](http://ilpubs.stanford.edu:8090/508/1/2001-41.pdf)
