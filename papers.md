@@ -469,7 +469,7 @@
 * Multimodal Intelligence: Representation Learning, Information Fusion, and Applications [Arxiv](https://arxiv.org/abs/1911.03977)
 * Tackling Graphical NLP problems with Graph Recurrent Networks [Arxiv](https://arxiv.org/abs/1907.06142)
 * A Survey of Reinforcement Learning Informed by Natural Language [Arxiv](https://arxiv.org/abs/1906.03926)
-*  [Arxiv]()
+* Cognitive Graph for Multi-Hop Reading Comprehension at Scale [Arxiv](https://arxiv.org/abs/1905.05460)
 *  [Arxiv]()
 *  [Arxiv]()
 *  [Arxiv]()
