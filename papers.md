@@ -1125,7 +1125,7 @@
 * A Probabilistic Representation of Deep Learning [Arxiv](https://arxiv.org/abs/1908.09772)
 * Deep Learning Theory Review: An Optimal Control and Dynamical Systems Perspective [Arxiv](https://arxiv.org/abs/1908.10920)
 * To understand deep learning we need to understand kernel learning [Arxiv](https://arxiv.org/abs/1802.01396)
-*  [Arxiv]()
+* Reinforcement Learning Upside Down: Don't Predict Rewards -- Just Map Them to Actions [Arxiv](https://arxiv.org/abs/1912.02875)
 *  [Arxiv]()
 
 ## Mathematics
