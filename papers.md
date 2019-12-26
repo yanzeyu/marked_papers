@@ -1068,7 +1068,7 @@
 * Image Classification with Deep Learning in the Presence of Noisy Labels: A Survey [Arxiv](https://arxiv.org/abs/1912.05170)
 * Towards Causal VQA: Revealing and Reducing Spurious Correlations by Invariant and Covariant Semantic Editing [Arxiv](https://arxiv.org/abs/1912.07538)
 * YOLACT++: Better Real-time Instance Segmentation [Arxiv](https://arxiv.org/abs/1912.06218)
-*  [Arxiv]()
+* Continual learning: A comparative study on how to defy forgetting in classification tasks [Arxiv](https://arxiv.org/abs/1909.08383)
 *  [Arxiv]()
 
 ## Deep Learning(Reinforcement Learning and others)
