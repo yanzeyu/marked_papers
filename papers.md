@@ -506,7 +506,7 @@
 * Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT [Arxiv](https://arxiv.org/abs/1909.05840)
 * Speeding up BERT [Intento](https://blog.inten.to/speeding-up-bert-5528e18bb4ea)
 * A Survey on Document-level Machine Translation: Methods and Evaluation [Arxiv](https://arxiv.org/abs/1912.08494)
-*  [Arxiv]()
+* Adversarial Multi-task Learning for Text Classification [Arxiv](https://arxiv.org/abs/1704.05742)
 *  [Arxiv]()
 *  [Arxiv]()
 *  [Arxiv]()
