@@ -510,6 +510,7 @@
 * Zero-shot Word Sense Disambiguation using Sense Definition Embeddings [ACLWeb](https://www.aclweb.org/anthology/P19-1568/)
 * Language Independent Sentiment Analysis [Arxiv](https://arxiv.org/abs/1912.11973)
 * A Study of Multilingual Neural Machine Translation [Arxiv](https://arxiv.org/abs/1912.11625)
+* Towards Scalable and Reliable Capsule Networks for Challenging NLP Applications [Arxiv](https://arxiv.org/abs/1906.02829)
 
 
 ## Recommender System
