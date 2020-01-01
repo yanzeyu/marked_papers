@@ -893,7 +893,8 @@
 * Deep Graph Similarity Learning: A Survey [Arxiv](https://arxiv.org/abs/1912.11615)
 * Multi-Label Graph Convolutional Network Representation Learning [Arxiv](https://arxiv.org/abs/1912.11757)
 * On the Morality of Artificial Intelligence [Arxiv](https://arxiv.org/abs/1912.11945)
-*  [Arxiv]()
+* Meta-Learning: A Survey [Arxiv](https://arxiv.org/abs/1810.03548)
+* Multimodal Machine Learning: A Survey and Taxonomy [Arxiv](https://arxiv.org/abs/1705.09406)
 
 ## Robotics
 * Flying through a narrow gap using neural network: an end-to-end planning and control approach [Arxiv](https://arxiv.org/abs/1903.09088)
