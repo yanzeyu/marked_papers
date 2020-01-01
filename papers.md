@@ -508,15 +508,8 @@
 * A Survey on Document-level Machine Translation: Methods and Evaluation [Arxiv](https://arxiv.org/abs/1912.08494)
 * Adversarial Multi-task Learning for Text Classification [Arxiv](https://arxiv.org/abs/1704.05742)
 * Zero-shot Word Sense Disambiguation using Sense Definition Embeddings [ACLWeb](https://www.aclweb.org/anthology/P19-1568/)
-*  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
+* Language Independent Sentiment Analysis [Arxiv](https://arxiv.org/abs/1912.11973)
+* A Study of Multilingual Neural Machine Translation [Arxiv](https://arxiv.org/abs/1912.11625)
 
 
 ## Recommender System
@@ -605,9 +598,7 @@
 * Conversational Agents for Insurance Companies: From Theory to Practice [Arxiv](https://arxiv.org/abs/1912.08473)
 * Predictive Biases in Natural Language Processing Models: A Conceptual Framework and Overview [Arxiv](https://arxiv.org/abs/1912.11078)
 * end-to-end training of a large vocabulary end-to-end speech recognition system [Arxiv](https://arxiv.org/abs/1912.11040)
-*  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
+* RecVAE: a New Variational Autoencoder for Top-N Recommendations with Implicit Feedback [Arxiv](https://arxiv.org/abs/1912.11160)
 
 
 ## Machine Learning
@@ -897,6 +888,10 @@
 * Deep Equilibrium Models [Arxiv](https://arxiv.org/abs/1909.01377)
 * A Geometric Perspective on Optimal Representations for Reinforcement Learning [Arxiv](https://arxiv.org/abs/1901.11530)
 * On the Measure of Intelligence [Arxiv](https://arxiv.org/abs/1911.01547)
+* Towards Better Understanding of Adaptive Gradient Algorithms in Generative Adversarial Nets [Arxiv](https://arxiv.org/abs/1912.11940)
+* Deep Graph Similarity Learning: A Survey [Arxiv](https://arxiv.org/abs/1912.11615)
+* Multi-Label Graph Convolutional Network Representation Learning [Arxiv](https://arxiv.org/abs/1912.11757)
+* On the Morality of Artificial Intelligence [Arxiv](https://arxiv.org/abs/1912.11945)
 *  [Arxiv]()
 
 ## Robotics
@@ -930,7 +925,6 @@
 * Continual Learning with Adaptive Weights (CLAW) [Arxiv](https://arxiv.org/abs/1911.09514)
 * Efficient Robotic Task Generalization Using Deep Model Fusion Reinforcement Learning [Arxiv](https://arxiv.org/abs/1912.05205)
 * Large-scale Kernel Methods and Applications to Lifelong Robot Learning [Arxiv](https://arxiv.org/abs/1912.05629)
-*  [Arxiv]()
 
 ## Computer Vision
 * Deep Learning for Object Detection: A Comprehensive Review [towardsdatascience.com](https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9)
@@ -1085,11 +1079,11 @@
 * Data-Free Adversarial Distillation [Arxiv](https://arxiv.org/abs/1912.11006)
 * Decoupled Attention Network for Text Recognition [Arxiv](https://arxiv.org/abs/1912.10205)
 * ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness [Arxiv](https://arxiv.org/abs/1811.12231)
-*  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
+* A Review on Intelligent Object Perception Methods Combining Knowledge-based Reasoning and Machine Learning [Arxiv](https://arxiv.org/abs/1912.11861)
+* Deep Learning-based Vehicle Behaviour Prediction For Autonomous Driving Applications: A Review [Arxiv](https://arxiv.org/abs/1912.11676)
+* Deep Learning for 3D Point Clouds: A Survey [Arxiv](https://arxiv.org/abs/1912.12033)
+* InSphereNet: a Concise Representation and Classification Method for 3D Object [Arxiv](https://arxiv.org/abs/1912.11606)
+* Unsupervised Few-shot Learning via Self-supervised Training [Arxiv](https://arxiv.org/abs/1912.12178)
 
 ## Deep Learning(Reinforcement Learning and others)
 * Variational Auto-Decoder: Neural Generative Modeling from Partial Data [Arxiv](https://arxiv.org/abs/1903.00840)
@@ -1201,11 +1195,6 @@
 * A Survey of Deep Reinforcement Learning in Video Games [Arxiv](https://arxiv.org/abs/1912.10944)
 * A Survey of Deep Learning Applications to Autonomous Vehicle Control [Arxiv](https://arxiv.org/abs/1912.10773)
 * Mastering Complex Control in MOBA Games with Deep Reinforcement Learning [Arxiv](https://arxiv.org/abs/1912.09729)
-*  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
 
 ## Mathematics
 * An invitation to Gabor analysis [Arxiv](https://arxiv.org/pdf/1812.08647)
@@ -1404,8 +1393,5 @@ Per Kristen Jakobsen [Arxiv](https://arxiv.org/abs/1904.07702)
 * A note on continuous fractional wavelet transform in ℝn [Arxiv](https://arxiv.org/abs/1912.06832)
 * Singularity of Data Analytic Operations [Arxiv](https://arxiv.org/abs/1307.7624)
 * Algorithms for Heavy-Tailed Statistics: Regression, Covariance Estimation, and Beyond [Arxiv](https://arxiv.org/abs/1912.11071)
-*  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
-*  [Arxiv]()
+* Mathematical models and methods for crowd dynamics control [Arxiv](https://arxiv.org/abs/1912.11628)
+* LieART 2.0 -- A Mathematica Application for Lie Algebras and Representation Theory [Arxiv](https://arxiv.org/abs/1912.10969)
