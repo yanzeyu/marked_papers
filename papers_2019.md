@@ -511,7 +511,7 @@
 * Language Independent Sentiment Analysis [Arxiv](https://arxiv.org/abs/1912.11973)
 * A Study of Multilingual Neural Machine Translation [Arxiv](https://arxiv.org/abs/1912.11625)
 * Towards Scalable and Reliable Capsule Networks for Challenging NLP Applications [Arxiv](https://arxiv.org/abs/1906.02829)
-
+* An Introductory Survey on Attention Mechanisms in NLP Problems [Arxiv](https://arxiv.org/abs/1811.05544)
 
 ## Recommender System
 * SimRank: A Measure of Structural-Context Similarity∗ [ilpubs stanford](http://ilpubs.stanford.edu:8090/508/1/2001-41.pdf)
