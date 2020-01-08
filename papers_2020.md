@@ -3,7 +3,7 @@
 * Weak Supervision for Fake News Detection via Reinforcement Learning [Arxiv](https://arxiv.org/abs/1912.12520)
 * Job Prediction: From Deep Neural Network Models to Applications [Arxiv](https://arxiv.org/abs/1912.12214)
 * Deep Representation Learning in Speech Processing: Challenges, Recent Advances, and Future Trends [Arxiv](https://arxiv.org/abs/2001.00378)
-* [Arxiv]()
+* Learning Sparse Sharing Architectures for Multiple Tasks [Arxiv](https://arxiv.org/abs/1911.05034)
 * [Arxiv]()
 
 # Recommender System and Information Retrieval
