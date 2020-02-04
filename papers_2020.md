@@ -188,7 +188,7 @@
 * Graph Signal Processing -- Part II: Processing and Analyzing Signals on Graphs [Arxiv](https://arxiv.org/abs/1909.10325)
 * Graph Signal Processing -- Part III: Machine Learning on Graphs, from Graph Topology to Applications [Arxiv](https://arxiv.org/abs/2001.00426)
 * Poly-time universality and limitations of deep learning [Arxiv](https://arxiv.org/abs/2001.02992)
-*  [Arxiv]()
+* A survey of the impact of Thurston's work on Knot Theory [Arxiv](https://arxiv.org/abs/2002.00564)
 *  [Arxiv]()
 *  [Arxiv]()
 *  [Arxiv]()
