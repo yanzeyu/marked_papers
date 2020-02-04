@@ -37,6 +37,22 @@
 * ERNIE-GEN: An Enhanced Multi-Flow Pre-training and Fine-tuning Framework for Natural Language Generation [Arxiv](https://arxiv.org/abs/2001.11314)
 * Adversarial Training for Aspect-Based Sentiment Analysis with BERT [Arxiv](https://arxiv.org/abs/2001.11316)
 * Modeling Global and Local Node Contexts for Text Generation from Knowledge Graphs [Arxiv](https://arxiv.org/abs/2001.11003)
+* Unsupervised Multilingual Alignment using Wasserstein Barycenter [Arxiv](https://arxiv.org/abs/2002.00743)
+* PEL-BERT: A Joint Model for Protocol Entity Linking [Arxiv](https://arxiv.org/abs/2002.00744)
+* Asking Questions the Human Way: Scalable Question-Answer Generation from Text Corpus [Arxiv](https://arxiv.org/abs/2002.00748)
+* Joint Contextual Modeling for ASR Correction and Language Understanding [Arxiv](https://arxiv.org/abs/2002.00750)
+* Bertrand-DR: Improving Text-to-SQL using a Discriminative Re-ranker [Arxiv](https://arxiv.org/abs/2002.00557)
+* A Survey on Knowledge Graphs: Representation, Acquisition and Applications [Arxiv](https://arxiv.org/abs/2002.00388)
+* Beat the AI: Investigating Adversarial Human Annotations for Reading Comprehension [Arxiv](https://arxiv.org/abs/2002.00293)
+* Self-attention-based BiGRU and capsule network for named entity recognition [Arxiv](https://arxiv.org/abs/2002.00735)
+* Introduction of Quantification in Frame Semantics [Arxiv](https://arxiv.org/abs/2002.00720) Master Report
+* FastWordBug: A Fast Method To Generate Adversarial Text Against NLP Applications [Arxiv](https://arxiv.org/abs/2002.00760)
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
+*  [Arxiv]()
 *  [Arxiv]()
 
 # Recommender System and Information Retrieval
